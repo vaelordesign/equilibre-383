@@ -9,6 +9,11 @@ Sources : les PowerPoint des cours 1, 2 (parties 1 et 2) et 3 (parties 1 et 2), 
 Copies dans `sources/`, texte extrait dans `txt/`.
 
 ## Ouvrir
+- **En ligne, sans compte** : https://vaelordesign.github.io/equilibre-383/ (dépôt public `vaelordesign/equilibre-383`,
+  GitHub Pages servi depuis `docs/`, page en noindex). Mis en ligne à la demande de Julien le 29 sept. 2026.
+  Les fichiers du prof (`sources/`, `txt/`) sont exclus du dépôt par `.gitignore`. Après une modification :
+  `node build.js`, puis `git add -A`, `git commit`, `git push` (Pages se redéploie en ~40 s), et republier
+  `equilibre-383.html` pour l'Artifact (https://claude.ai/artifact/E3QKjMZ5u1HfthHpfBkHu8).
 - Double-cliquer sur `docs/index.html` (page complète). Copie : `Grasset Session 1\Économie\Equilibre-383.html`.
 - Guides PDF (version claire, pour imprimer) : `Grasset Session 1\Économie\Equilibre-383-guide-express.pdf`
   (9 pages) et `Equilibre-383-fiches.pdf` (les 20 fiches).
