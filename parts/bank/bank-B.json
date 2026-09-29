@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "B-001", "s": "s4", "t": "qcm",
+    "q": "Selon la définition vue en classe, qu'est-ce que la demande ?",
+    "o": [
+      "La quantité d'un bien que les consommateurs achètent réellement au cours d'une période.",
+      "La relation globale qui existe entre la quantité demandée d'un bien ou d'un service et son prix.",
+      "La quantité d'un bien que les consommateurs envisagent d'acheter à un prix déterminé.",
+      "La somme des dépenses de tous les consommateurs pour un bien ou un service donné."
+    ],
+    "a": 1,
+    "w": "La demande est la relation globale entre toutes les quantités demandées et tous les prix : c'est toute la courbe. Le piège est l'option qui décrit la quantité demandée, qui correspond à un seul prix, donc à un seul point de la courbe."
+  },
+  {
+    "id": "B-002", "s": "s4", "t": "qcm",
+    "q": "Laquelle des définitions suivantes correspond à la quantité demandée ?",
+    "o": [
+      "La quantité d'un bien que les consommateurs ont réellement achetée le mois dernier.",
+      "La relation entre toutes les quantités qu'on désire acheter et tous les prix possibles.",
+      "La quantité d'un bien que les producteurs ont l'intention de vendre à un prix donné.",
+      "La quantité d'un bien que les consommateurs envisagent d'acheter à un prix déterminé."
+    ],
+    "a": 3,
+    "w": "La quantité demandée est une intention d'achat à un prix déterminé, et non une quantité achetée. La relation entre toutes les quantités et tous les prix, c'est la demande; l'intention de vendre, c'est la quantité offerte."
+  },
+  {
+    "id": "B-003", "s": "s4", "t": "qcm",
+    "q": "Selon la loi de la demande, toutes choses étant égales par ailleurs, que se passe-t-il lorsque le prix d'un bien augmente ?",
+    "o": [
+      "La demande du bien diminue et la courbe se déplace vers la gauche.",
+      "La quantité demandée du bien diminue.",
+      "La quantité demandée du bien augmente.",
+      "La demande du bien augmente et la courbe se déplace vers la droite."
+    ],
+    "a": 1,
+    "w": "La loi de la demande dit que la quantité demandée diminue au fur et à mesure que le prix augmente. Piège : une hausse du prix du bien ne fait pas baisser la DEMANDE (aucun déplacement), elle fait baisser la QUANTITÉ DEMANDÉE (mouvement le long de la courbe)."
+  },
+  {
+    "id": "B-004", "s": "s4", "t": "qcm",
+    "q": "Une diminution de la quantité demandée, suite à une hausse du prix, est représentée par :",
+    "o": [
+      "un déplacement vers la droite de la courbe de demande",
+      "un déplacement vers la gauche de la courbe de demande",
+      "un mouvement ascendant et vers la gauche le long de la courbe de demande",
+      "un mouvement descendant et vers la droite le long de la courbe de demande"
+    ],
+    "a": 2,
+    "w": "Le prix monte (on monte sur l'axe vertical) et la quantité demandée baisse (on va vers la gauche) : on glisse vers le haut et vers la gauche SUR la même courbe. La courbe ne se déplace que si un déterminant autre que le prix du bien change."
+  },
+  {
+    "id": "B-005", "s": "s4", "t": "qcm",
+    "q": "Qu'est-ce que la demande de marché ?",
+    "o": [
+      "La somme des quantités demandées par chacun des acheteurs pour tous les niveaux de prix.",
+      "La quantité demandée par l'acheteur le plus important du marché, à chaque niveau de prix.",
+      "La moyenne des quantités demandées par les acheteurs pour un seul niveau de prix.",
+      "La quantité échangée entre les acheteurs et les vendeurs au prix du marché."
+    ],
+    "a": 0,
+    "w": "On additionne les quantités demandées de tous les acheteurs, à chaque niveau de prix (ex. 8 + 6 + 12 = 26 tablettes à 0,10 $ dans l'exemple du cours). Ce n'est ni une moyenne ni la quantité d'un seul acheteur."
+  },
+  {
+    "id": "B-006", "s": "s4", "t": "qcm",
+    "q": "Sur un graphique de demande, quel changement représente une hausse de la demande ?",
+    "o": [
+      "Un glissement vers le bas le long de la courbe de demande.",
+      "Un déplacement de toute la courbe vers la gauche, vers l'origine.",
+      "Un glissement vers le haut le long de la courbe de demande.",
+      "Un déplacement de toute la courbe vers la droite, en s'éloignant de 0."
+    ],
+    "a": 3,
+    "w": "Une hausse de la demande déplace toute la courbe vers la droite : à un même prix, la quantité demandée est plus grande (on s'éloigne de 0). Glisser le long de la courbe, c'est une variation de la quantité demandée, causée par le prix du bien."
+  },
+  {
+    "id": "B-007", "s": "s4", "t": "qcm",
+    "q": "Au prix de 1,00 $, la quantité demandée de tablettes de chocolat passe de 1 000 à 800 unités, alors que le prix n'a pas changé. Que s'est-il produit ?",
+    "o": [
+      "Une hausse de la demande (déplacement vers la droite)",
+      "Une baisse de la demande (déplacement vers la gauche)",
+      "Une baisse de la quantité demandée le long de la courbe",
+      "Une hausse de la quantité demandée le long de la courbe"
+    ],
+    "a": 1,
+    "w": "Le prix est resté à 1,00 $, mais on veut acheter moins : toute la courbe s'est déplacée vers la gauche, c'est une baisse de la demande (graphique du cours : 1 000 à 800). Une variation causée par le prix du bien serait un mouvement le long de la courbe."
+  },
+  {
+    "id": "B-008", "s": "s4", "t": "qcm",
+    "q": "Un étudiant affirme que la hausse du prix des billets des Canadiens de Montréal a fait baisser la demande de billets. Quelle correction faut-il apporter à son affirmation ?",
+    "o": [
+      "Aucune : une hausse du prix d'un bien fait toujours baisser sa demande.",
+      "Il fallait dire que la demande a augmenté, puisque le prix est plus élevé.",
+      "Il fallait dire que la quantité demandée a baissé, et non la demande.",
+      "Il fallait dire que l'offre de billets a baissé, et non la demande."
+    ],
+    "a": 2,
+    "w": "Le prix du bien lui-même ne déplace pas la courbe de demande : il fait varier la quantité demandée (mouvement le long de la courbe). C'est LE piège classique demande vs quantité demandée."
+  },
+  {
+    "id": "B-009", "s": "s4", "t": "qcm",
+    "q": "Voici la demande de marché de tablettes de chocolat vue en classe : 0,10 $ : 26; 0,25 $ : 18; 0,50 $ : 11; 1,00 $ : 5; 2,00 $ : 1; 5,00 $ : 0. Si le prix passe de 0,25 $ à 1,00 $, que se passe-t-il ?",
+    "o": [
+      "La demande baisse de 13 tablettes.",
+      "La quantité demandée baisse de 13 tablettes.",
+      "La quantité demandée baisse de 7 tablettes.",
+      "La demande baisse de 7 tablettes."
+    ],
+    "a": 1,
+    "w": "De 18 à 5, la quantité demandée baisse de 13 tablettes. Comme c'est le prix du bien qui change, on parle de quantité demandée (mouvement le long de la courbe), pas de demande. Le 7 correspond à l'écart entre 0,25 $ et 0,50 $ (18 - 11)."
+  },
+  {
+    "id": "B-010", "s": "s4", "t": "qcm",
+    "q": "Pourquoi la définition de la quantité demandée parle-t-elle d'intention d'achat ?",
+    "o": [
+      "Parce qu'elle mesure ce que les consommateurs envisagent d'acheter à un prix donné, pas ce qu'ils ont acheté.",
+      "Parce qu'elle mesure seulement les achats qui ont été réglés à crédit par les consommateurs d'un marché.",
+      "Parce qu'elle mesure ce que les vendeurs ont l'intention de produire et de vendre à un prix donné.",
+      "Parce qu'elle mesure les achats que les consommateurs ont réalisés au cours de la dernière année."
+    ],
+    "a": 0,
+    "w": "Le prof insiste : on parle d'intention d'achat à un prix déterminé et non de quantité achetée. L'intention de vendre, c'est la quantité offerte, du côté des producteurs."
+  },
+  {
+    "id": "B-011", "s": "s4", "t": "qcm",
+    "q": "Quelle expression désigne un changement de la quantité demandée causé uniquement par une variation du prix du bien ?",
+    "o": [
+      "Un déplacement de la courbe de demande",
+      "Une variation de la demande",
+      "Un mouvement le long de la courbe de demande",
+      "Un déplacement de la courbe d'offre"
+    ],
+    "a": 2,
+    "w": "Quand seul le prix du bien change, on reste sur la même courbe et on glisse d'un point à un autre : c'est un mouvement le long de la courbe. Un déplacement de la courbe correspond à une variation de la demande, causée par un autre déterminant."
+  },
+  {
+    "id": "B-012", "s": "s4", "t": "qcm",
+    "q": "Dans les graphiques de demande vus en classe, où sont placés le prix et la quantité ?",
+    "o": [
+      "Le prix sur l'axe vertical et la quantité sur l'axe horizontal.",
+      "La quantité sur l'axe vertical et le prix sur l'axe horizontal.",
+      "Le prix sur l'axe horizontal et le revenu sur l'axe vertical.",
+      "Le revenu sur l'axe horizontal et la quantité sur l'axe vertical."
+    ],
+    "a": 0,
+    "w": "Le prix ($) est sur l'axe vertical et la quantité sur l'axe horizontal. C'est pourquoi une hausse de prix accompagnée d'une baisse de la quantité demandée se lit comme un mouvement « ascendant et vers la gauche » le long de la courbe."
+  },
+  {
+    "id": "B-013", "s": "s4", "t": "vf",
+    "q": "La quantité demandée correspond à la quantité d'un bien que les consommateurs ont réellement achetée à un prix déterminé.",
+    "a": false,
+    "w": "Faux. La quantité demandée est la quantité que les consommateurs envisagent d'acheter à un prix déterminé : c'est une intention d'achat, et non une quantité achetée."
+  },
+  {
+    "id": "B-014", "s": "s4", "t": "vf",
+    "q": "Selon la loi de la demande, toutes choses étant égales par ailleurs, la quantité demandée d'un bien diminue au fur et à mesure que son prix augmente, et vice versa.",
+    "a": true,
+    "w": "Vrai. C'est l'énoncé de la loi de la demande vu en classe : prix en hausse, quantité demandée en baisse, et inversement."
+  },
+  {
+    "id": "B-015", "s": "s4", "t": "vf",
+    "q": "Une hausse du prix d'un bien entraîne un déplacement vers la gauche de sa courbe de demande.",
+    "a": false,
+    "w": "Faux. Le prix du bien lui-même ne déplace pas la courbe : il provoque un mouvement le long de la courbe (baisse de la quantité demandée). Seuls les autres déterminants déplacent la courbe de demande."
+  },
+  {
+    "id": "B-016", "s": "s4", "t": "vf",
+    "q": "Pour obtenir la demande de marché, on additionne, à chaque niveau de prix, les quantités demandées par chacun des acheteurs.",
+    "a": true,
+    "w": "Vrai. La demande de marché est la somme des quantités demandées par chacun des acheteurs pour tous les niveaux de prix (ex. 5 + 3 + 10 = 18 tablettes à 0,25 $)."
+  },
+  {
+    "id": "B-017", "s": "s4", "t": "vf",
+    "q": "Pour un prix qui demeure inchangé, une hausse de la demande implique une plus grande quantité demandée.",
+    "a": true,
+    "w": "Vrai. À un même prix (ex. 1,00 $), la courbe déplacée vers la droite donne une plus grande intention d'achat (ex. 1 200 au lieu de 1 000)."
+  },
+  {
+    "id": "B-018", "s": "s4", "t": "vf",
+    "q": "Une baisse de la demande se traduit par un déplacement de la courbe de demande vers la droite.",
+    "a": false,
+    "w": "Faux. Une baisse de la demande déplace la courbe vers la gauche (on se rapproche de 0). Le déplacement vers la droite correspond à une hausse de la demande."
+  },
+  {
+    "id": "B-019", "s": "s4", "t": "vf",
+    "q": "Si le prix d'une poutine passe de 9 $ à 7 $ à la cafétéria du cégep, la quantité demandée de poutines augmente, mais la demande de poutines reste la même.",
+    "a": true,
+    "w": "Vrai. Seul le prix du bien a changé : on glisse le long de la même courbe (hausse de la quantité demandée), sans déplacement de la courbe de demande."
+  },
+  {
+    "id": "B-020", "s": "s4", "t": "vf",
+    "q": "En économie, la demande et la quantité demandée sont deux expressions qui veulent dire la même chose.",
+    "a": false,
+    "w": "Faux. La demande est la relation globale entre les prix et les quantités demandées (toute la courbe). La quantité demandée est un seul point : l'intention d'achat à un prix précis."
+  },
+  {
+    "id": "B-021", "s": "s4", "t": "courte",
+    "q": "Comment appelle-t-on la quantité d'un bien ou d'un service que les consommateurs envisagent d'acheter à un prix déterminé ?",
+    "acc": ["quantité demandée", "quantite demandee", "quantités demandées", "quantites demandees"],
+    "m": "La quantité demandée. C'est l'intention d'achat des consommateurs à un prix déterminé, et non la quantité réellement achetée."
+  },
+  {
+    "id": "B-022", "s": "s4", "t": "courte",
+    "q": "Quel nom donne-t-on à la somme des quantités demandées par chacun des acheteurs pour tous les niveaux de prix ?",
+    "acc": ["demande de marché", "demande du marché", "demande de marche", "demande du marche"],
+    "m": "La demande de marché. On l'obtient en additionnant, à chaque prix, les quantités demandées de tous les acheteurs."
+  },
+  {
+    "id": "B-023", "s": "s4", "t": "courte",
+    "q": "Dans quelle direction se déplace la courbe de demande lors d'une hausse de la demande ?",
+    "acc": ["vers la droite", "droite", "à droite", "a droite"],
+    "m": "Vers la droite. À un même prix, la quantité demandée est plus grande : on s'éloigne de 0."
+  },
+  {
+    "id": "B-024", "s": "s4", "t": "courte",
+    "q": "Toutes choses étant égales par ailleurs, une variation du prix du bien lui-même entraîne-t-elle un déplacement de la courbe de demande ou un mouvement le long de la courbe ?",
+    "acc": ["mouvement le long", "mouvement", "mouvement sur la courbe", "glissement le long", "mouvement sur courbe"],
+    "m": "Un mouvement le long de la courbe. Le prix du bien fait varier la quantité demandée, sans déplacer la courbe de demande."
+  },
+  {
+    "id": "B-025", "s": "s4", "t": "courte",
+    "q": "Quelle loi affirme que, toutes choses étant égales par ailleurs, la quantité demandée d'un bien diminue au fur et à mesure que son prix augmente ?",
+    "acc": ["loi de la demande", "loi de demande", "loi demande"],
+    "m": "La loi de la demande. Plus le prix d'un bien augmente, plus la quantité demandée diminue, et vice versa."
+  },
+  {
+    "id": "B-026", "s": "s4", "t": "calc",
+    "q": "Au prix de 0,25 $, trois clients envisagent d'acheter respectivement 5, 3 et 10 tablettes de chocolat. Quelle est la quantité demandée du marché à ce prix ?",
+    "a": 18, "tol": 0, "u": "tablettes",
+    "m": "<p>Demande de marché = somme des quantités demandées de chaque acheteur, au même prix.</p><p>5 + 3 + 10 = <b>18 tablettes</b></p>"
+  },
+  {
+    "id": "B-027", "s": "s4", "t": "calc",
+    "q": "Dans un dépanneur de Laval, quatre clients réguliers indiquent combien de sacs de chips ils achèteraient cette semaine. Au prix de 3 $, leurs intentions d'achat sont de 2, 4, 0 et 3 sacs. Au prix de 2 $, elles seraient de 3, 5, 1 et 4 sacs. Quelle est la quantité demandée du marché au prix de 2 $ ?",
+    "a": 13, "tol": 0, "u": "sacs",
+    "m": "<p>On additionne les quantités demandées de tous les acheteurs au prix de 2 $ :<br>3 + 5 + 1 + 4 = <b>13 sacs</b></p><p>À 3 $, on aurait 2 + 4 + 0 + 3 = 9 sacs : le prix plus bas fait augmenter la quantité demandée (loi de la demande).</p>"
+  },
+  {
+    "id": "B-028", "s": "s4", "t": "calc",
+    "q": "À partir de la demande de marché vue en classe (0,10 $ : 26; 0,25 $ : 18; 0,50 $ : 11; 1,00 $ : 5; 2,00 $ : 1; 5,00 $ : 0), de combien de tablettes la quantité demandée augmente-t-elle si le prix baisse de 0,50 $ à 0,10 $ ?",
+    "a": 15, "tol": 0, "u": "tablettes",
+    "m": "<p>Quantité demandée à 0,10 $ - quantité demandée à 0,50 $<br>26 - 11 = <b>15 tablettes</b></p><p>C'est une hausse de la quantité demandée (mouvement le long de la courbe), pas une hausse de la demande, car seul le prix du bien a changé.</p>"
+  },
+  {
+    "id": "B-029", "s": "s4", "t": "calc",
+    "q": "Au prix de 1,00 $, la quantité demandée d'un bien est de 1 000 unités. À la suite du changement d'un déterminant autre que le prix, la courbe de demande se déplace et, à ce même prix de 1,00 $, la quantité demandée devient 1 200 unités. De combien d'unités la quantité demandée a-t-elle augmenté à ce prix ?",
+    "a": 200, "tol": 0, "u": "unités",
+    "m": "<p>1 200 - 1 000 = <b>200 unités</b></p><p>Comme le prix est resté à 1,00 $, c'est toute la courbe qui s'est déplacée vers la droite : il s'agit d'une <b>hausse de la demande</b>.</p>"
+  },
+  {
+    "id": "B-030", "s": "s4", "t": "calc",
+    "q": "Au prix de 0,50 $, les trois clients de l'exemple du cours envisagent d'acheter 3, 2 et 6 tablettes de chocolat. Un quatrième client se joint au marché et envisage d'acheter 4 tablettes à ce prix. Quelle est la nouvelle quantité demandée du marché à 0,50 $ ?",
+    "a": 15, "tol": 0, "u": "tablettes",
+    "m": "<p>On additionne les quantités demandées de tous les acheteurs, y compris le nouveau :<br>3 + 2 + 6 + 4 = <b>15 tablettes</b> (au lieu de 11)</p><p>L'arrivée d'un acheteur (nombre de consommateurs en hausse) augmente la demande de marché.</p>"
+  },
+  {
+    "id": "B-031", "s": "s4", "t": "dev",
+    "q": "Expliquez la différence entre une variation de la demande et une variation de la quantité demandée. Illustrez chacune à l'aide d'un exemple.",
+    "m": "<p><b>Variation de la quantité demandée</b> : elle est causée uniquement par une variation du prix du bien lui-même. On reste sur la même courbe : c'est un <b>mouvement le long de la courbe</b> de demande. Ex. : le prix de la poutine passe de 9 $ à 7 $ à la cafétéria, la quantité demandée de poutines augmente.</p><p><b>Variation de la demande</b> : elle est causée par le changement d'un déterminant autre que le prix du bien (revenu, prix des biens associés, goûts et préférences, nombre de consommateurs, anticipations). <b>Toute la courbe se déplace</b> : vers la droite pour une hausse, vers la gauche pour une baisse. Ex. : des milliers de nouveaux étudiants s'inscrivent au cégep, la demande de poutines augmente même si le prix ne change pas.</p>",
+    "crit": [
+      "Associe la variation de la quantité demandée à un changement du prix du bien lui-même (1 pt)",
+      "Explique qu'il s'agit d'un mouvement le long de la courbe, sans déplacement de celle-ci (1 pt)",
+      "Associe la variation de la demande à un déterminant autre que le prix et à un déplacement de toute la courbe (droite = hausse, gauche = baisse) (1 pt)",
+      "Donne un exemple correct pour chacune des deux notions (1 pt)"
+    ],
+    "k": ["quantité demandée", "prix du bien", "mouvement le long de la courbe", "déplacement de la courbe", "déterminant"]
+  },
+  {
+    "id": "B-032", "s": "s5", "t": "qcm",
+    "q": "Quel facteur, parmi les suivants, n'entraîne pas un déplacement de la courbe de demande ?",
+    "o": [
+      "Le revenu des consommateurs",
+      "Le prix des autres produits (substituts ou compléments)",
+      "Le prix du bien lui-même",
+      "Les goûts ou les préférences des consommateurs"
+    ],
+    "a": 2,
+    "w": "Le prix du bien lui-même fait seulement varier la quantité demandée (mouvement le long de la courbe). Les trois autres facteurs sont des déterminants qui déplacent toute la courbe de demande."
+  },
+  {
+    "id": "B-033", "s": "s5", "t": "qcm",
+    "q": "Lequel des éléments suivants N'EST PAS un des cinq déterminants de la demande vus en classe ?",
+    "o": [
+      "Les anticipations des consommateurs",
+      "Le nombre de consommateurs",
+      "Le prix des biens associés",
+      "Le prix des intrants de production"
+    ],
+    "a": 3,
+    "w": "Le prix des intrants est un déterminant de l'OFFRE (coûts de production). Les cinq déterminants de la demande sont : le revenu, le prix des biens associés, les goûts et préférences, le nombre de consommateurs et les anticipations."
+  },
+  {
+    "id": "B-034", "s": "s5", "t": "qcm",
+    "q": "Laquelle de ces situations entraîne une HAUSSE de la demande de voitures électriques au Québec ?",
+    "o": [
+      "Le prix des voitures électriques baisse chez les concessionnaires.",
+      "Le prix des bornes de recharge à domicile augmente fortement.",
+      "Des milliers de familles quittent le Québec pour l'Ontario.",
+      "L'intérêt des Québécois pour les véhicules écologiques augmente."
+    ],
+    "a": 3,
+    "w": "L'intérêt accru pour les véhicules écologiques est un changement des goûts et préférences : la courbe de demande se déplace vers la droite. Piège : la baisse du prix des voitures électriques elles-mêmes augmente la quantité demandée, pas la demande; les deux autres situations font baisser la demande."
+  },
+  {
+    "id": "B-035", "s": "s5", "t": "qcm",
+    "q": "Le prix du beurre augmente fortement à l'épicerie. Qu'arrive-t-il à la demande de margarine ?",
+    "o": [
+      "Elle diminue, car le beurre et la margarine sont des biens complémentaires.",
+      "Elle augmente, car le beurre et la margarine sont des biens substituts.",
+      "Elle ne change pas, car seul le prix du beurre a varié sur le marché.",
+      "Elle diminue, car le prix d'un bien associé à la margarine a augmenté."
+    ],
+    "a": 1,
+    "w": "Le beurre et la margarine sont des alternatives de consommation (substituts, exemple du cours). Quand le beurre coûte plus cher, des consommateurs se tournent vers la margarine : la demande de margarine augmente (déplacement vers la droite)."
+  },
+  {
+    "id": "B-036", "s": "s5", "t": "qcm",
+    "q": "Le prix de l'essence augmente fortement au Québec. Quel est l'effet sur la demande de véhicules automobiles ?",
+    "o": [
+      "La demande de véhicules augmente, car l'essence est un bien substitut.",
+      "La quantité demandée de véhicules baisse, sans déplacement de la courbe.",
+      "La demande de véhicules diminue, car l'essence est un bien complémentaire.",
+      "La demande de véhicules augmente, car les consommateurs anticipent une hausse."
+    ],
+    "a": 2,
+    "w": "L'essence et les automobiles sont consommées conjointement (biens complémentaires, exemple du cours). Si le prix du complément augmente, la demande du bien diminue. Ce n'est pas une variation de la quantité demandée, car le prix des voitures elles-mêmes n'a pas changé."
+  },
+  {
+    "id": "B-037", "s": "s5", "t": "qcm",
+    "q": "Le revenu des étudiants augmente fortement grâce à des emplois d'été mieux payés. Si les nouilles instantanées sont un bien inférieur, qu'arrive-t-il à leur demande ?",
+    "o": [
+      "Elle augmente, comme pour tout bien lorsque le revenu augmente.",
+      "Elle ne change pas, car le prix des nouilles n'a pas changé.",
+      "Elle augmente, car les étudiants anticipent une hausse de revenu.",
+      "Elle diminue, car les étudiants se tournent vers des biens qu'ils préfèrent."
+    ],
+    "a": 3,
+    "w": "Pour un bien inférieur, une hausse du revenu fait baisser la demande : les consommateurs délaissent ce bien pour des biens qu'ils préfèrent. Le piège est de croire que la demande augmente toujours avec le revenu, ce qui n'est vrai que pour un bien normal."
+  },
+  {
+    "id": "B-038", "s": "s5", "t": "qcm",
+    "q": "Quelle est la différence entre un bien normal et un bien inférieur ?",
+    "o": [
+      "Un bien normal est de bonne qualité; un bien inférieur est défectueux ou de mauvaise qualité.",
+      "Quand le revenu augmente, la demande d'un bien normal augmente et celle d'un bien inférieur diminue.",
+      "Quand son prix augmente, la demande d'un bien normal diminue, mais pas celle d'un bien inférieur.",
+      "Un bien normal est produit au Québec; un bien inférieur est importé d'un autre pays."
+    ],
+    "a": 1,
+    "w": "La distinction se fait selon la réaction de la demande au revenu : revenu en hausse, demande en hausse pour un bien normal, en baisse pour un bien inférieur (ex. nouilles instantanées, produits de marque maison). Ce n'est pas une question de qualité."
+  },
+  {
+    "id": "B-039", "s": "s5", "t": "qcm",
+    "q": "Une nouvelle taxe à l'achat d'une voiture, imposée par le gouvernement du Québec, entrera en vigueur dans deux mois. Quel déterminant est en cause et quel est l'effet immédiat sur la demande de voitures ?",
+    "o": [
+      "Le revenu des consommateurs; la demande diminue.",
+      "Les anticipations des consommateurs; la demande augmente.",
+      "Les anticipations des consommateurs; la demande diminue.",
+      "Le prix du bien lui-même; la quantité demandée diminue."
+    ],
+    "a": 1,
+    "w": "Les consommateurs anticipent une hausse du prix futur des voitures : ils se dépêchent d'acheter avant l'entrée en vigueur de la taxe. On regarde l'effet immédiat : la demande augmente dès maintenant."
+  },
+  {
+    "id": "B-040", "s": "s5", "t": "qcm",
+    "q": "Avec une économie au ralenti, beaucoup de travailleurs de Laval craignent de perdre leur emploi dans les prochains mois. Quel est l'effet immédiat sur la demande de meubles neufs à Laval ?",
+    "o": [
+      "La demande augmente, car les gens achètent avant de perdre leur emploi.",
+      "La quantité demandée diminue, car le prix des meubles augmente.",
+      "La demande ne change pas, car leur revenu actuel est toujours le même.",
+      "La demande diminue, car les gens anticipent une baisse de revenu et épargnent."
+    ],
+    "a": 3,
+    "w": "C'est le déterminant des anticipations : les gens prévoient une baisse de leurs revenus futurs, donc ils épargnent davantage et achètent moins dès maintenant. Même si le revenu actuel n'a pas encore changé, la demande immédiate baisse (exemple du cours)."
+  },
+  {
+    "id": "B-041", "s": "s5", "t": "qcm",
+    "q": "Des milliers de touristes arrivent dans la ville de Québec pour le Carnaval. Quel déterminant de la demande de repas au restaurant dans la ville de Québec est en cause ?",
+    "o": [
+      "Le nombre de consommateurs",
+      "Les goûts et les préférences des consommateurs",
+      "Le revenu des consommateurs",
+      "Les anticipations des consommateurs"
+    ],
+    "a": 0,
+    "w": "Le tourisme augmente le nombre physique de consommateurs sur le territoire : la demande de repas augmente (déplacement vers la droite). Les goûts n'ont pas changé; il y a simplement plus d'acheteurs."
+  },
+  {
+    "id": "B-042", "s": "s5", "t": "qcm",
+    "q": "Une campagne publicitaire très populaire fait du lait au chocolat la boisson préférée des sportifs québécois. Quel déterminant est en cause et quel est l'effet sur la demande de lait au chocolat ?",
+    "o": [
+      "Le nombre de consommateurs; la demande augmente.",
+      "Les anticipations des consommateurs; la demande augmente.",
+      "Les goûts et les préférences; la demande augmente.",
+      "Les goûts et les préférences; la quantité demandée augmente."
+    ],
+    "a": 2,
+    "w": "La publicité influence les goûts et préférences : l'intérêt accru pour le bien fait augmenter la demande (déplacement de toute la courbe vers la droite). On ne parle pas de quantité demandée, car le prix du lait au chocolat n'a pas changé."
+  },
+  {
+    "id": "B-043", "s": "s5", "t": "qcm",
+    "q": "Laquelle de ces situations entraîne une BAISSE de la demande de titres de transport de la STM ?",
+    "o": [
+      "Le coût d'utilisation de la voiture (essence, stationnement) augmente fortement.",
+      "Le prix des titres de transport de la STM augmente.",
+      "Des milliers d'étudiants étrangers s'installent à Montréal.",
+      "Le prix des courses en taxi et des voitures partagées baisse fortement."
+    ],
+    "a": 3,
+    "w": "Le taxi et les voitures partagées sont des substituts du transport en commun : si leur prix baisse, des usagers délaissent la STM et la demande diminue. Attention : la hausse du prix des titres eux-mêmes fait seulement baisser la quantité demandée."
+  },
+  {
+    "id": "B-044", "s": "s5", "t": "qcm",
+    "q": "Lequel de ces couples représente des biens complémentaires ?",
+    "o": [
+      "Le thé et la tisane",
+      "Le beurre et la margarine",
+      "Le jus d'orange et le jus de pomme",
+      "L'essence et les automobiles"
+    ],
+    "a": 3,
+    "w": "Des biens complémentaires sont consommés conjointement : sans essence, la voiture ne roule pas. Le thé et la tisane, le beurre et la margarine ou les deux jus sont plutôt des substituts (alternatives de consommation)."
+  },
+  {
+    "id": "B-045", "s": "s5", "t": "qcm",
+    "q": "Des analystes du secteur de l'immobilier publient leurs prévisions sur la hausse prochaine du prix des maisons dans la région de Montréal. Qu'arrive-t-il à la demande de maisons, dans l'immédiat ?",
+    "o": [
+      "Elle augmente, car les acheteurs veulent profiter des prix les plus bas possibles.",
+      "Elle diminue, car les maisons coûteront plus cher dans un avenir rapproché.",
+      "La quantité demandée diminue, car le prix des maisons a déjà augmenté.",
+      "Elle ne change pas, car la hausse de prix ne s'est pas encore produite."
+    ],
+    "a": 0,
+    "w": "C'est l'exemple du cours sur les anticipations : les acheteurs prévoient un prix futur plus élevé et achètent maintenant. L'effet immédiat est une hausse de la demande, même si le prix n'a pas encore bougé."
+  },
+  {
+    "id": "B-046", "s": "s5", "t": "vf",
+    "q": "Chaque fois qu'un déterminant de la demande varie, à l'exception du prix du bien, la courbe de demande se déplace.",
+    "a": true,
+    "w": "Vrai. C'est la règle « super importante » du cours : tous les déterminants, sauf le prix du bien lui-même, déplacent toute la courbe de demande (vers la droite ou vers la gauche)."
+  },
+  {
+    "id": "B-047", "s": "s5", "t": "vf",
+    "q": "Si le prix d'un bien substitut augmente, la demande du bien étudié diminue.",
+    "a": false,
+    "w": "Faux. Si le prix d'un substitut augmente, les consommateurs se tournent vers le bien étudié : sa demande augmente (ex. le thé coûte plus cher, la demande de tisane augmente)."
+  },
+  {
+    "id": "B-048", "s": "s5", "t": "vf",
+    "q": "Si le prix d'un bien complémentaire diminue, la demande du bien étudié augmente.",
+    "a": true,
+    "w": "Vrai. Les deux biens sont consommés ensemble : si le complément coûte moins cher, utiliser le bien étudié devient plus avantageux et sa demande augmente (ex. essence moins chère, demande d'automobiles en hausse)."
+  },
+  {
+    "id": "B-049", "s": "s5", "t": "vf",
+    "q": "Pour un bien inférieur, une hausse du revenu des consommateurs entraîne une baisse de la demande.",
+    "a": true,
+    "w": "Vrai. C'est ce qui distingue le bien inférieur du bien normal : quand le revenu augmente, les consommateurs délaissent ce bien (ex. nouilles instantanées, produits de marque maison)."
+  },
+  {
+    "id": "B-050", "s": "s5", "t": "vf",
+    "q": "Pour le déterminant des anticipations, on s'intéresse à l'effet sur la demande au moment futur où le changement anticipé se produira.",
+    "a": false,
+    "w": "Faux. On s'intéresse à l'effet immédiat sur la demande. Ex. : si on anticipe une hausse du prix d'un bien dans le futur, la demande de ce bien augmente dès maintenant."
+  },
+  {
+    "id": "B-051", "s": "s5", "t": "vf",
+    "q": "L'exode des jeunes des régions vers les grandes villes fait diminuer la demande de biens et de services dans ces régions.",
+    "a": true,
+    "w": "Vrai. C'est le déterminant du nombre de consommateurs : il y a moins de gens sur le territoire des régions, donc la demande y diminue (déplacement vers la gauche)."
+  },
+  {
+    "id": "B-052", "s": "s5", "t": "vf",
+    "q": "Un intérêt accru des consommateurs pour les voitures hybrides est un exemple du déterminant « nombre de consommateurs ».",
+    "a": false,
+    "w": "Faux. C'est un changement des goûts et des préférences des consommateurs (exemple du cours). Le nombre de consommateurs renvoie au nombre physique d'individus sur un territoire."
+  },
+  {
+    "id": "B-053", "s": "s5", "t": "vf",
+    "q": "Si les consommateurs anticipent une baisse de leurs revenus dans les prochains mois, la demande de biens augmente dans l'immédiat.",
+    "a": false,
+    "w": "Faux. Craignant d'avoir moins d'argent, les gens épargnent davantage : la demande de biens diminue dans l'immédiat."
+  },
+  {
+    "id": "B-054", "s": "s5", "t": "courte",
+    "q": "Comment appelle-t-on des biens qui sont des alternatives de consommation, comme le thé et la tisane ?",
+    "acc": ["substituts", "biens substituts", "substitut", "bien substitut", "produits substituts"],
+    "m": "Des biens substituts. Ce sont des alternatives de consommation : si le prix de l'un augmente, la demande de l'autre augmente."
+  },
+  {
+    "id": "B-055", "s": "s5", "t": "courte",
+    "q": "Comment appelle-t-on des biens consommés conjointement, comme l'essence et les véhicules automobiles ?",
+    "acc": ["complémentaires", "biens complémentaires", "compléments", "complementaires", "biens complementaires", "produits complémentaires"],
+    "m": "Des biens complémentaires. Ils sont consommés ensemble : si le prix de l'un augmente, la demande de l'autre diminue."
+  },
+  {
+    "id": "B-056", "s": "s5", "t": "courte",
+    "q": "Quel type de bien voit sa demande diminuer lorsque le revenu des consommateurs augmente ?",
+    "acc": ["bien inférieur", "inférieur", "bien inferieur", "inferieur", "biens inférieurs"],
+    "m": "Un bien inférieur. Ex. : les nouilles instantanées ou les produits de marque maison, qu'on délaisse quand on a plus d'argent."
+  },
+  {
+    "id": "B-057", "s": "s5", "t": "courte",
+    "q": "Une hausse de l'immigration fait augmenter la population de Montréal. Quel déterminant de la demande est en cause ?",
+    "acc": ["nombre de consommateurs", "nombre de consommateur", "nombre d'acheteurs", "population"],
+    "m": "Le nombre de consommateurs. Plus de gens sur le territoire fait augmenter la demande (déplacement vers la droite)."
+  },
+  {
+    "id": "B-058", "s": "s5", "t": "courte",
+    "q": "Nommez le déterminant de la demande qui porte sur ce que les consommateurs prévoient quant au prix futur d'un bien ou à leurs revenus futurs.",
+    "acc": ["anticipations", "anticipations des consommateurs", "anticipation", "attentes"],
+    "m": "Les anticipations des consommateurs. On regarde leur effet immédiat sur la demande."
+  },
+  {
+    "id": "B-059", "s": "s5", "t": "courte",
+    "q": "Nommez le déterminant de la demande influencé par la mode, les nouveautés, la publicité et les valeurs.",
+    "acc": ["goûts et préférences", "gouts et preferences", "goûts", "préférences", "goûts des consommateurs", "gouts"],
+    "m": "Les goûts et les préférences des consommateurs. Plus d'intérêt pour un bien fait augmenter sa demande; moins d'intérêt la fait baisser."
+  },
+  {
+    "id": "B-060", "s": "s5", "t": "dev",
+    "q": "Distinguez un bien substitut et un bien complémentaire. Expliquez ensuite l'effet d'une hausse du prix de chacun sur la demande d'un bien, à l'aide d'un exemple.",
+    "m": "<p><b>Biens substituts</b> : ce sont des alternatives de consommation (ex. le beurre et la margarine). Si le prix du beurre augmente, des consommateurs se tournent vers la margarine : la <b>demande de margarine augmente</b> (déplacement vers la droite).</p><p><b>Biens complémentaires</b> : ce sont des biens consommés conjointement (ex. l'essence et les automobiles). Si le prix de l'essence augmente, utiliser une voiture coûte plus cher : la <b>demande d'automobiles diminue</b> (déplacement vers la gauche).</p><p>Dans les deux cas, c'est le déterminant « prix des biens associés » qui déplace la courbe de demande.</p>",
+    "crit": [
+      "Définit correctement les biens substituts comme des alternatives de consommation (1 pt)",
+      "Définit correctement les biens complémentaires comme des biens consommés conjointement (1 pt)",
+      "Explique qu'une hausse du prix d'un substitut fait augmenter la demande du bien, avec un exemple (1 pt)",
+      "Explique qu'une hausse du prix d'un complément fait diminuer la demande du bien, avec un exemple (1 pt)"
+    ],
+    "k": ["substituts", "complémentaires", "prix des biens associés", "hausse de la demande", "baisse de la demande", "déplacement"]
+  },
+  {
+    "id": "B-061", "s": "s5", "t": "dev",
+    "q": "Pour le marché de la voiture au Québec, identifiez le déterminant impliqué et l'effet sur la demande pour chacun des événements suivants : 1) le gouvernement baisse les impôts sur le revenu des travailleurs; 2) une politique favorise l'accroissement de l'immigration au Québec; 3) le transport en commun devient significativement moins cher et plus efficace dans les principales villes; 4) une nouvelle taxe à l'achat d'une voiture entrera en vigueur dans deux mois.",
+    "m": "<ul><li><b>1)</b> Revenu des consommateurs : les travailleurs ont plus d'argent à leur disposition, la <b>demande augmente</b> (vers la droite).</li><li><b>2)</b> Nombre de consommateurs : il y a plus de gens sur le territoire, la <b>demande augmente</b>.</li><li><b>3)</b> Prix des biens associés : le transport en commun est un substitut de la voiture et son prix baisse, la <b>demande de voitures diminue</b> (vers la gauche).</li><li><b>4)</b> Anticipations des consommateurs : ils prévoient un prix futur plus élevé et achètent maintenant, la <b>demande augmente dans l'immédiat</b>.</li></ul>",
+    "crit": [
+      "Événement 1 : revenu des consommateurs, hausse de la demande (1 pt)",
+      "Événement 2 : nombre de consommateurs, hausse de la demande (1 pt)",
+      "Événement 3 : prix des biens associés (baisse du prix d'un substitut), baisse de la demande (1 pt)",
+      "Événement 4 : anticipations (prix futur en hausse), hausse immédiate de la demande (1 pt)"
+    ],
+    "k": ["revenu", "nombre de consommateurs", "substitut", "anticipations", "hausse de la demande", "baisse de la demande"]
+  },
+  {
+    "id": "B-062", "s": "s6", "t": "qcm",
+    "q": "Selon la définition vue en classe, qu'est-ce que l'offre ?",
+    "o": [
+      "La quantité qu'un producteur a l'intention de vendre à un prix donné.",
+      "La quantité d'un bien disponible dans les entrepôts à un moment donné.",
+      "La relation globale qui existe entre la quantité offerte d'un bien ou d'un service et son prix.",
+      "La relation entre la quantité achetée par les consommateurs et leur revenu."
+    ],
+    "a": 2,
+    "w": "L'offre est la relation globale entre toutes les quantités offertes et tous les prix : c'est toute la courbe. L'intention de vendre à un prix donné, c'est la quantité offerte, un seul point de la courbe."
+  },
+  {
+    "id": "B-063", "s": "s6", "t": "qcm",
+    "q": "Quelle définition correspond à la quantité offerte ?",
+    "o": [
+      "La quantité d'un bien que les producteurs ont réellement vendue au cours de l'année précédente, peu importe le prix du marché.",
+      "La quantité d'un bien que les consommateurs envisagent d'acheter au cours d'une période donnée, compte tenu du prix du marché.",
+      "La relation globale entre toutes les quantités qu'un producteur peut fabriquer et tous ses coûts de production possibles.",
+      "La quantité d'un bien que les producteurs ont l'intention de vendre au cours d'une période donnée, compte tenu du prix qui prévaut sur le marché."
+    ],
+    "a": 3,
+    "w": "La quantité offerte est une intention de vendre, à un prix donné, pendant une période donnée. La quantité que les consommateurs envisagent d'acheter, c'est la quantité demandée."
+  },
+  {
+    "id": "B-064", "s": "s6", "t": "qcm",
+    "q": "Selon la loi de l'offre, toutes choses étant égales par ailleurs, que se passe-t-il lorsque le prix d'un bien augmente ?",
+    "o": [
+      "La quantité offerte du bien augmente.",
+      "La quantité offerte du bien diminue.",
+      "L'offre du bien augmente et la courbe se déplace vers la droite.",
+      "L'offre du bien diminue et la courbe se déplace vers la gauche."
+    ],
+    "a": 0,
+    "w": "Plus le prix est élevé, plus la quantité offerte est élevée : les producteurs veulent vendre davantage à un prix plus payant. C'est un mouvement le long de la courbe d'offre, pas un déplacement : l'offre elle-même ne change pas."
+  },
+  {
+    "id": "B-065", "s": "s6", "t": "qcm",
+    "q": "Si le prix des tablettes de chocolat diminue, toutes choses étant égales par ailleurs, que se passe-t-il ?",
+    "o": [
+      "L'offre de tablettes diminue.",
+      "L'offre de tablettes augmente.",
+      "La quantité offerte de tablettes augmente.",
+      "La quantité offerte diminue, mais l'offre ne change pas."
+    ],
+    "a": 3,
+    "w": "Le prix du bien lui-même ne déplace pas la courbe d'offre : il fait varier la quantité offerte (intention de vendre). Un prix plus bas réduit la quantité offerte, par un mouvement vers le bas et vers la gauche le long de la courbe."
+  },
+  {
+    "id": "B-066", "s": "s6", "t": "qcm",
+    "q": "Qu'est-ce que l'offre de marché ?",
+    "o": [
+      "La quantité offerte par le plus gros vendeur du marché, à chaque niveau de prix.",
+      "La somme des quantités offertes de tous les vendeurs pour tous les niveaux de prix.",
+      "La moyenne des quantités offertes par les vendeurs pour un seul niveau de prix.",
+      "La quantité que les acheteurs et les vendeurs échangent au prix du marché."
+    ],
+    "a": 1,
+    "w": "On additionne, à chaque prix, les quantités offertes de tous les vendeurs (ex. 500 + 700 + 450 = 1 650 tablettes à 0,25 $ dans l'exemple du cours). Ce n'est pas une moyenne."
+  },
+  {
+    "id": "B-067", "s": "s6", "t": "qcm",
+    "q": "Sur un graphique d'offre, quel changement représente une baisse de l'offre ?",
+    "o": [
+      "Un déplacement de toute la courbe d'offre vers la gauche.",
+      "Un glissement vers le bas le long de la courbe d'offre.",
+      "Un déplacement de toute la courbe d'offre vers la droite.",
+      "Un glissement vers le haut le long de la courbe d'offre."
+    ],
+    "a": 0,
+    "w": "Une baisse de l'offre déplace toute la courbe vers la gauche : à un même prix, les producteurs offrent moins (ex. de 4 550 à 4 100 tablettes à 1,00 $). Glisser le long de la courbe, c'est une variation de la quantité offerte, causée par le prix du bien."
+  },
+  {
+    "id": "B-068", "s": "s6", "t": "qcm",
+    "q": "Au prix inchangé de 1,00 $, la quantité offerte de tablettes de chocolat passe de 4 550 à 4 850 unités. Comment qualifie-t-on ce changement ?",
+    "o": [
+      "Une hausse de la quantité offerte due à une hausse du prix",
+      "Une baisse de l'offre (déplacement vers la gauche)",
+      "Une hausse de l'offre (déplacement vers la droite)",
+      "Une hausse de la demande (déplacement vers la droite)"
+    ],
+    "a": 2,
+    "w": "Le prix n'a pas bougé, mais les producteurs offrent davantage : toute la courbe d'offre s'est déplacée vers la droite, c'est une hausse de l'offre (graphique du cours : 4 550 à 4 850). Une hausse causée par le prix serait un mouvement le long de la courbe."
+  },
+  {
+    "id": "B-069", "s": "s6", "t": "qcm",
+    "q": "Dans l'exercice du cours, un commerçant produit des tablettes de chocolat à un coût constant de 0,20 $ l'unité. Pourquoi sa quantité offerte au prix de 0,10 $ est-elle de 0 ?",
+    "o": [
+      "Parce que la demande de tablettes de chocolat est nulle à ce prix.",
+      "Parce qu'à ce prix, il vendrait chaque tablette à perte (prix inférieur au coût).",
+      "Parce que la loi de l'offre interdit de vendre un bien sous 0,25 $.",
+      "Parce que le nombre d'entreprises sur le marché est beaucoup trop élevé."
+    ],
+    "a": 1,
+    "w": "À 0,10 $, le prix de vente est inférieur au coût de production de 0,20 $ : chaque tablette vendue ferait perdre de l'argent. C'est pourquoi les trois commerçants du cours n'offrent rien à ce prix. Plus le prix monte au-dessus du coût, plus la quantité offerte augmente (loi de l'offre)."
+  },
+  {
+    "id": "B-070", "s": "s6", "t": "vf",
+    "q": "Selon la loi de l'offre, toutes choses étant égales par ailleurs, plus le prix d'un bien est élevé, plus la quantité offerte de ce bien est élevée.",
+    "a": true,
+    "w": "Vrai. C'est l'énoncé de la loi de l'offre vu en classe : un prix plus élevé incite les producteurs à vouloir vendre davantage."
+  },
+  {
+    "id": "B-071", "s": "s6", "t": "vf",
+    "q": "Une baisse du prix d'un bien entraîne une baisse de l'offre de ce bien.",
+    "a": false,
+    "w": "Faux. Une baisse du prix du bien entraîne une baisse de la QUANTITÉ OFFERTE (mouvement le long de la courbe). L'offre ne change que si un déterminant autre que le prix du bien varie."
+  },
+  {
+    "id": "B-072", "s": "s6", "t": "vf",
+    "q": "La quantité offerte correspond à la quantité que les producteurs ont l'intention de vendre au cours d'une période donnée, compte tenu du prix qui prévaut sur le marché.",
+    "a": true,
+    "w": "Vrai. C'est la définition du cours : une intention de vendre, à un prix donné, pendant une période donnée."
+  },
+  {
+    "id": "B-073", "s": "s6", "t": "vf",
+    "q": "L'offre de marché s'obtient en calculant la moyenne des quantités offertes par les vendeurs à chaque prix.",
+    "a": false,
+    "w": "Faux. L'offre de marché est la SOMME des quantités offertes de tous les vendeurs pour tous les niveaux de prix, et non leur moyenne."
+  },
+  {
+    "id": "B-074", "s": "s6", "t": "vf",
+    "q": "Une hausse de l'offre se représente par un déplacement de la courbe d'offre vers la droite.",
+    "a": true,
+    "w": "Vrai. À un même prix, les producteurs offrent une plus grande quantité : la courbe s'éloigne de 0, vers la droite."
+  },
+  {
+    "id": "B-075", "s": "s6", "t": "vf",
+    "q": "La courbe d'offre se déplace chaque fois que le prix du bien lui-même varie.",
+    "a": false,
+    "w": "Faux. La courbe d'offre se déplace chaque fois qu'un déterminant de l'offre varie, À L'EXCEPTION du prix du bien. Le prix du bien provoque un mouvement le long de la courbe."
+  },
+  {
+    "id": "B-076", "s": "s6", "t": "courte",
+    "q": "Comment appelle-t-on la quantité d'un bien que les producteurs ont l'intention de vendre au cours d'une période donnée, compte tenu du prix qui prévaut sur le marché ?",
+    "acc": ["quantité offerte", "quantite offerte", "quantités offertes", "quantites offertes"],
+    "m": "La quantité offerte. C'est une intention de vendre à un prix donné, soit un seul point de la courbe d'offre."
+  },
+  {
+    "id": "B-077", "s": "s6", "t": "courte",
+    "q": "Quel nom donne-t-on à la somme des quantités offertes de tous les vendeurs pour tous les niveaux de prix ?",
+    "acc": ["offre de marché", "offre du marché", "offre de marche", "offre du marche"],
+    "m": "L'offre de marché. Ex. : à 0,25 $, 500 + 700 + 450 = 1 650 tablettes pour les trois commerçants du cours."
+  },
+  {
+    "id": "B-078", "s": "s6", "t": "courte",
+    "q": "Dans quelle direction se déplace la courbe d'offre lors d'une baisse de l'offre ?",
+    "acc": ["vers la gauche", "gauche", "à gauche", "a gauche"],
+    "m": "Vers la gauche. À un même prix, les producteurs offrent une moins grande quantité : on se rapproche de 0."
+  },
+  {
+    "id": "B-079", "s": "s6", "t": "courte",
+    "q": "Quelle loi affirme que, toutes choses étant égales par ailleurs, plus le prix d'un bien est élevé, plus la quantité offerte de ce bien est élevée ?",
+    "acc": ["loi de l'offre", "loi de l offre", "loi de offre", "loi d'offre"],
+    "m": "La loi de l'offre. Un prix plus élevé incite les producteurs à vouloir vendre davantage."
+  },
+  {
+    "id": "B-080", "s": "s6", "t": "calc",
+    "q": "Au prix de 1,00 $, trois commerçants de tablettes de chocolat ont l'intention de vendre respectivement 1 500, 1 700 et 1 350 tablettes. Quelle est la quantité offerte du marché à ce prix ?",
+    "a": 4550, "tol": 0, "u": "tablettes",
+    "m": "<p>Offre de marché = somme des quantités offertes de tous les vendeurs, au même prix.</p><p>1 500 + 1 700 + 1 350 = <b>4 550 tablettes</b></p>"
+  },
+  {
+    "id": "B-081", "s": "s6", "t": "calc",
+    "q": "Quatre érablières de la Beauce indiquent combien de litres de sirop d'érable elles ont l'intention de vendre ce printemps au prix de 12 $ le litre : 2 400, 3 100, 1 850 et 2 650 litres. Quelle est la quantité offerte du marché à 12 $ le litre ?",
+    "a": 10000, "tol": 0, "u": "litres",
+    "m": "<p>On additionne les quantités offertes de tous les vendeurs au prix de 12 $ :</p><p>2 400 + 3 100 + 1 850 + 2 650 = <b>10 000 litres</b></p>"
+  },
+  {
+    "id": "B-082", "s": "s6", "t": "calc",
+    "q": "À partir de l'offre de marché vue en classe (0,10 $ : 0; 0,25 $ : 1 650; 0,50 $ : 3 200; 1,00 $ : 4 550; 2,00 $ : 7 900; 5,00 $ : 14 900), de combien de tablettes la quantité offerte augmente-t-elle si le prix passe de 0,50 $ à 2,00 $ ?",
+    "a": 4700, "tol": 0, "u": "tablettes",
+    "m": "<p>Quantité offerte à 2,00 $ - quantité offerte à 0,50 $<br>7 900 - 3 200 = <b>4 700 tablettes</b></p><p>C'est une hausse de la quantité offerte (mouvement le long de la courbe), conforme à la loi de l'offre. L'offre elle-même ne change pas.</p>"
+  },
+  {
+    "id": "B-083", "s": "s6", "t": "dev",
+    "q": "Distinguez l'offre et la quantité offerte. Expliquez ensuite ce qui se passe à l'offre et à la quantité offerte si le prix des tablettes de chocolat diminue.",
+    "m": "<p><b>L'offre</b> est la relation globale qui existe entre la quantité offerte d'un bien et son prix : c'est toute la courbe d'offre.</p><p><b>La quantité offerte</b> est la quantité que les producteurs ont l'intention de vendre au cours d'une période donnée, compte tenu du prix du marché : c'est un seul point de la courbe.</p><p>Si le prix des tablettes diminue, l'<b>offre ne change pas</b> : la courbe ne se déplace pas, car le prix du bien lui-même n'est pas un déterminant qui la déplace. La <b>quantité offerte diminue</b> : selon la loi de l'offre, un prix plus bas incite à vendre moins. On observe un mouvement vers le bas et vers la gauche le long de la courbe.</p>",
+    "crit": [
+      "Définit correctement l'offre comme la relation globale entre la quantité offerte et le prix (1 pt)",
+      "Définit correctement la quantité offerte comme l'intention de vendre à un prix donné (1 pt)",
+      "Indique que l'offre ne change pas, car la courbe ne se déplace pas quand seul le prix du bien varie (1 pt)",
+      "Indique que la quantité offerte diminue (mouvement le long de la courbe, loi de l'offre) (1 pt)"
+    ],
+    "k": ["offre", "quantité offerte", "relation globale", "loi de l'offre", "mouvement le long de la courbe"]
+  },
+  {
+    "id": "B-084", "s": "s7", "t": "qcm",
+    "q": "Lequel des éléments suivants N'EST PAS un des cinq déterminants de l'offre vus en classe ?",
+    "o": [
+      "La technologie (techniques de production)",
+      "Les subventions accordées aux entreprises",
+      "Les goûts et les préférences des consommateurs",
+      "Les conditions climatiques (sécheresse, pluie)"
+    ],
+    "a": 2,
+    "w": "Les goûts et préférences sont un déterminant de la DEMANDE. Les cinq déterminants de l'offre sont : le prix des intrants, la technologie, le nombre d'entreprises, les subventions et les conditions climatiques."
+  },
+  {
+    "id": "B-085", "s": "s7", "t": "qcm",
+    "q": "Le prix du fromage augmente considérablement, ce qui hausse les coûts de production d'une firme qui fabrique des pizzas surgelées. Qu'arrive-t-il à l'offre de pizzas de cette firme ?",
+    "o": [
+      "L'offre augmente, car la firme vendra ses pizzas plus cher.",
+      "L'offre diminue, car le prix d'un intrant a augmenté.",
+      "La quantité offerte augmente, car le prix du fromage a monté.",
+      "L'offre ne change pas, car le prix des pizzas est resté le même."
+    ],
+    "a": 1,
+    "w": "Le fromage est un intrant (matière première). Pour garder sa marge de profit, la firme voudra un prix de vente plus élevé pour chaque quantité, ce qui se traduit par une baisse de l'offre (déplacement vers la gauche)."
+  },
+  {
+    "id": "B-086", "s": "s7", "t": "qcm",
+    "q": "Une usine de meubles de Victoriaville installe des machines de coupe numériques qui permettent de produire deux fois plus de chaises par jour avec le même personnel. Quel déterminant est en cause et quel est l'effet sur l'offre ?",
+    "o": [
+      "Le prix des intrants; l'offre diminue.",
+      "Le nombre d'entreprises; l'offre augmente.",
+      "La technologie; la quantité offerte augmente.",
+      "La technologie; l'offre augmente."
+    ],
+    "a": 3,
+    "w": "Des techniques de production plus efficaces augmentent la capacité de production et réduisent le coût unitaire (hausse de la productivité) : l'offre augmente, déplacement vers la droite. On ne dit pas « quantité offerte », car le prix des chaises n'a pas changé."
+  },
+  {
+    "id": "B-087", "s": "s7", "t": "qcm",
+    "q": "Durant l'été, trois nouvelles pizzérias ont ouvert leurs portes dans le quartier Ahuntsic. Quel est l'effet sur le marché des pizzas dans ce quartier ?",
+    "o": [
+      "L'offre de pizzas augmente, en raison du nombre d'entreprises.",
+      "La demande de pizzas augmente, en raison du nombre de consommateurs.",
+      "L'offre de pizzas diminue, car la concurrence est plus forte.",
+      "La quantité offerte augmente, car le prix des pizzas augmente."
+    ],
+    "a": 0,
+    "w": "Plus il y a d'entreprises qui offrent un bien, plus l'offre augmente (déplacement vers la droite). Ce sont des vendeurs, et non des acheteurs, qui s'ajoutent au marché : c'est un déterminant de l'offre, pas de la demande."
+  },
+  {
+    "id": "B-088", "s": "s7", "t": "qcm",
+    "q": "Le gouvernement accorde une aide financière aux entreprises qui fabriquent des éoliennes pour encourager le développement d'énergie verte. Quel déterminant est en cause et quel est l'effet sur l'offre d'éoliennes ?",
+    "o": [
+      "Le prix des intrants; l'offre diminue.",
+      "Les goûts et préférences; la demande augmente.",
+      "Les subventions; l'offre augmente.",
+      "Les subventions; l'offre diminue."
+    ],
+    "a": 2,
+    "w": "Une subvention est une aide financière de l'État aux entreprises : pour un même prix de vente, elles font plus de profit et produisent davantage. L'offre d'éoliennes augmente (déplacement vers la droite)."
+  },
+  {
+    "id": "B-089", "s": "s7", "t": "qcm",
+    "q": "Des pluies abondantes et prolongées inondent les champs de maïs sucré de la Montérégie au début de l'été. Qu'arrive-t-il à l'offre de maïs sucré ?",
+    "o": [
+      "Elle diminue, en raison de conditions climatiques défavorables.",
+      "Elle augmente, car le maïs sucré devient plus rare et plus cher.",
+      "Elle diminue, en raison d'une baisse du nombre de consommateurs.",
+      "Elle ne change pas; seule la quantité demandée de maïs diminue."
+    ],
+    "a": 0,
+    "w": "Des pluies abondantes qui nuisent aux récoltes sont des conditions climatiques défavorables : la production diminue, donc l'offre baisse (déplacement vers la gauche). Le nombre de consommateurs est un déterminant de la demande."
+  },
+  {
+    "id": "B-090", "s": "s7", "t": "qcm",
+    "q": "Laquelle de ces situations entraîne une HAUSSE de l'offre de sirop d'érable au Québec ?",
+    "o": [
+      "Un nouvel évaporateur plus efficace se répand dans les érablières.",
+      "Le prix du sirop d'érable augmente dans les épiceries.",
+      "Le gouvernement réduit les subventions aux acériculteurs.",
+      "Le prix du carburant utilisé pour faire bouillir l'eau d'érable augmente."
+    ],
+    "a": 0,
+    "w": "Un évaporateur plus efficace est un progrès technologique : l'offre augmente (déplacement vers la droite). Piège : une hausse du prix du sirop lui-même fait seulement augmenter la quantité offerte; les deux autres situations font baisser l'offre."
+  },
+  {
+    "id": "B-091", "s": "s7", "t": "qcm",
+    "q": "Laquelle de ces situations entraîne une BAISSE de l'offre de tomates de serre au Québec ?",
+    "o": [
+      "Le gouvernement augmente les subventions aux producteurs en serre.",
+      "Le prix de l'électricité qui chauffe et éclaire les serres augmente fortement.",
+      "Plusieurs nouveaux producteurs en serre s'installent au Québec.",
+      "Un nouveau système d'éclairage réduit le coût de production par tomate."
+    ],
+    "a": 1,
+    "w": "L'électricité est un intrant pour les serres : si son prix augmente, les coûts de production montent et l'offre diminue (déplacement vers la gauche). Les trois autres situations font augmenter l'offre."
+  },
+  {
+    "id": "B-092", "s": "s7", "t": "qcm",
+    "q": "Plusieurs producteurs laitiers du Québec cessent leurs activités et ferment leur ferme. Quel déterminant de l'offre de lait est en cause ?",
+    "o": [
+      "Le prix des intrants",
+      "La technologie",
+      "Les conditions climatiques",
+      "Le nombre d'entreprises"
+    ],
+    "a": 3,
+    "w": "Moins d'entreprises produisent du lait : l'offre diminue (déplacement vers la gauche). En règle générale, plus il y a de vendeurs, plus l'offre est grande, et l'inverse est aussi vrai."
+  },
+  {
+    "id": "B-093", "s": "s7", "t": "qcm",
+    "q": "Selon le cours, pourquoi une subvention agit-elle un peu comme le prix des intrants sur l'offre ?",
+    "o": [
+      "Parce que, pour un même prix de vente, les entreprises produisent plus ou moins selon leurs profits.",
+      "Parce que la subvention est versée aux consommateurs, ce qui fait augmenter leur revenu disponible.",
+      "Parce que la subvention oblige les entreprises à baisser leur prix de vente sur le marché.",
+      "Parce que la subvention modifie les goûts et les préférences des consommateurs envers le produit."
+    ],
+    "a": 0,
+    "w": "Le prof précise que la subvention reprend le principe du prix des intrants : pour un même prix de vente, les entreprises vont produire plus ou moins en fonction de leurs profits. Plus de subventions, plus de profit, donc une offre en hausse."
+  },
+  {
+    "id": "B-094", "s": "s7", "t": "qcm",
+    "q": "Selon le cours, quel est l'effet de techniques de production plus efficaces ?",
+    "o": [
+      "Elles font augmenter le prix des intrants, ce qui fait baisser l'offre.",
+      "Elles augmentent la capacité de production et réduisent le coût unitaire, ce qui hausse l'offre.",
+      "Elles augmentent le nombre de consommateurs, ce qui fait monter la demande.",
+      "Elles font augmenter la quantité offerte sans déplacer la courbe d'offre."
+    ],
+    "a": 1,
+    "w": "La technologie permet d'augmenter la capacité de production d'une entreprise et de réduire le coût unitaire des biens produits (hausse de la productivité) : l'offre augmente et la courbe se déplace vers la droite."
+  },
+  {
+    "id": "B-095", "s": "s7", "t": "qcm",
+    "q": "Les salaires de la main-d'œuvre augmentent fortement dans les usines de pizzas surgelées. Quel déterminant de l'offre de pizzas surgelées est en cause ?",
+    "o": [
+      "La technologie",
+      "Le nombre d'entreprises",
+      "Le prix des intrants",
+      "Les subventions"
+    ],
+    "a": 2,
+    "w": "Les salaires de la main-d'œuvre font partie des coûts de production, donc du prix des intrants : leur hausse fait baisser l'offre de pizzas (déplacement vers la gauche)."
+  },
+  {
+    "id": "B-096", "s": "s7", "t": "vf",
+    "q": "Si le prix des intrants de production augmente, l'offre du produit augmente.",
+    "a": false,
+    "w": "Faux. Une hausse du prix des intrants (salaires, matières premières) augmente les coûts de production : l'offre diminue (déplacement vers la gauche)."
+  },
+  {
+    "id": "B-097", "s": "s7", "t": "vf",
+    "q": "L'utilisation de techniques de production plus efficaces entraîne une hausse de l'offre.",
+    "a": true,
+    "w": "Vrai. Une meilleure technologie augmente la capacité de production et réduit le coût unitaire : la courbe d'offre se déplace vers la droite."
+  },
+  {
+    "id": "B-098", "s": "s7", "t": "vf",
+    "q": "Si le nombre d'entreprises sur un marché diminue, l'offre du produit diminue.",
+    "a": true,
+    "w": "Vrai. Moins de vendeurs, moins de production offerte à chaque prix : la courbe d'offre se déplace vers la gauche."
+  },
+  {
+    "id": "B-099", "s": "s7", "t": "vf",
+    "q": "Une diminution des subventions accordées aux entreprises entraîne une hausse de l'offre.",
+    "a": false,
+    "w": "Faux. Moins de subventions, c'est moins de profit pour un même prix de vente : les entreprises produisent moins et l'offre diminue."
+  },
+  {
+    "id": "B-100", "s": "s7", "t": "vf",
+    "q": "Des conditions climatiques défavorables, comme une sécheresse, font augmenter l'offre de denrées alimentaires.",
+    "a": false,
+    "w": "Faux. Des conditions climatiques défavorables réduisent la production : l'offre de denrées diminue. Ce sont des conditions favorables (ex. une température clémente) qui font augmenter l'offre."
+  },
+  {
+    "id": "B-101", "s": "s7", "t": "vf",
+    "q": "Si une firme de pizzas surgelées veut maintenir sa marge de profit après une hausse du prix du fromage, elle augmentera probablement son prix de vente, ce qui correspond à une baisse de l'offre.",
+    "a": true,
+    "w": "Vrai. C'est l'exemple du cours : la marge de profit est l'écart entre le prix de vente et le coût de production. Vouloir un prix plus élevé pour chaque quantité correspond à une baisse de l'offre par rapport au prix de vente initial."
+  },
+  {
+    "id": "B-102", "s": "s7", "t": "vf",
+    "q": "L'ouverture de trois nouvelles pizzérias dans un quartier est un exemple de hausse de la demande de pizzas.",
+    "a": false,
+    "w": "Faux. Les pizzérias sont des vendeurs : c'est le déterminant « nombre d'entreprises », et c'est l'OFFRE de pizzas qui augmente."
+  },
+  {
+    "id": "B-103", "s": "s7", "t": "vf",
+    "q": "Le prix du bien lui-même fait partie des cinq déterminants qui déplacent la courbe d'offre.",
+    "a": false,
+    "w": "Faux. Le prix du bien fait varier la quantité offerte (mouvement le long de la courbe). Les cinq déterminants qui déplacent la courbe sont : le prix des intrants, la technologie, le nombre d'entreprises, les subventions et les conditions climatiques."
+  },
+  {
+    "id": "B-104", "s": "s7", "t": "courte",
+    "q": "Nommez le déterminant de l'offre qui comprend les salaires de la main-d'œuvre et les prix des matières premières.",
+    "acc": ["prix des intrants", "intrants", "prix des intrants de production", "coûts de production", "couts de production"],
+    "m": "Le prix des intrants. S'il augmente, les coûts de production montent et l'offre diminue."
+  },
+  {
+    "id": "B-105", "s": "s7", "t": "courte",
+    "q": "Comment appelle-t-on l'aide financière que l'État accorde aux entreprises pour influencer leur production ?",
+    "acc": ["subvention", "subventions", "subventions gouvernementales", "subvention gouvernementale"],
+    "m": "Une subvention. Si les subventions augmentent, l'offre augmente; si elles diminuent, l'offre diminue."
+  },
+  {
+    "id": "B-106", "s": "s7", "t": "courte",
+    "q": "Un nouveau robot permet à une boulangerie de Laval de produire plus de pains à l'heure, à un coût unitaire plus bas. Quel déterminant de l'offre est en cause ?",
+    "acc": ["technologie", "techniques de production", "technique de production", "progrès technologique"],
+    "m": "La technologie. Des techniques de production plus efficaces font augmenter l'offre (déplacement vers la droite)."
+  },
+  {
+    "id": "B-107", "s": "s7", "t": "courte",
+    "q": "Une sécheresse, des pluies abondantes ou une température clémente affectent la production agricole. De quel déterminant de l'offre s'agit-il ?",
+    "acc": ["conditions climatiques", "climat", "conditions météorologiques", "météo", "meteo"],
+    "m": "Les conditions climatiques. Des conditions défavorables font baisser l'offre; des conditions favorables la font augmenter."
+  },
+  {
+    "id": "B-108", "s": "s7", "t": "courte",
+    "q": "Dans l'exemple du cours, une firme de pizzas surgelées fait face à une hausse importante du prix du fromage. Dans quel sens varie son offre de pizzas ?",
+    "acc": ["baisse", "diminue", "diminution", "baisse de l'offre", "vers la gauche", "offre diminue"],
+    "m": "Une baisse de l'offre. Le fromage est un intrant : pour garder sa marge de profit, la firme voudra un prix de vente plus élevé, ce qui déplace la courbe d'offre vers la gauche."
+  },
+  {
+    "id": "B-109", "s": "s7", "t": "dev",
+    "q": "Identifiez le déterminant impliqué ainsi que l'effet sur l'offre pour chacun des événements suivants, et précisez le sens du déplacement de la courbe : 1) marché des éoliennes : le gouvernement donne une aide financière aux entreprises de ce secteur pour encourager le développement d'énergie verte; 2) marché des meubles en bois au Québec : le prix du bois a augmenté considérablement; 3) marché des pizzas dans le quartier Ahuntsic : durant l'été, trois nouvelles pizzérias ont ouvert leurs portes.",
+    "m": "<ul><li><b>1) Éoliennes</b> : subventions. L'aide financière augmente les profits pour un même prix de vente, l'<b>offre augmente</b> (déplacement vers la droite).</li><li><b>2) Meubles en bois</b> : prix des intrants. Le bois est une matière première dont le prix monte : les coûts de production augmentent et l'<b>offre diminue</b> (déplacement vers la gauche).</li><li><b>3) Pizzas à Ahuntsic</b> : nombre d'entreprises. Il y a plus de vendeurs sur le marché, l'<b>offre augmente</b> (déplacement vers la droite).</li></ul><p>Dans les trois cas, c'est l'offre (toute la courbe) qui varie, et non la quantité offerte, car le prix du bien lui-même n'a pas changé.</p>",
+    "crit": [
+      "Éoliennes : subventions, hausse de l'offre (1 pt)",
+      "Meubles en bois : prix des intrants, baisse de l'offre (1 pt)",
+      "Pizzas à Ahuntsic : nombre d'entreprises, hausse de l'offre (1 pt)",
+      "Associe correctement chaque hausse à un déplacement vers la droite et chaque baisse à un déplacement vers la gauche de la courbe d'offre (1 pt)"
+    ],
+    "k": ["subventions", "prix des intrants", "nombre d'entreprises", "hausse de l'offre", "baisse de l'offre", "déplacement"]
+  },
+  {
+    "id": "B-110", "s": "s5", "t": "prev",
+    "q": "Grâce à une nouvelle convention collective, les salaires des employés de la fonction publique québécoise augmentent de 12 %.",
+    "mk": "Le marché des voyages dans le Sud au départ de Montréal",
+    "c": "D", "d": 1, "det": "revenu",
+    "w": "Déterminant : le revenu des consommateurs. Avec plus d'argent à leur disposition, les travailleurs consomment davantage de biens normaux comme les voyages : la demande augmente (déplacement vers la droite). Le prix et la quantité d'équilibre augmentent."
+  },
+  {
+    "id": "B-111", "s": "s5", "t": "prev",
+    "q": "Grâce à des emplois d'été mieux payés, le revenu des étudiants du cégep augmente fortement. Les nouilles instantanées sont un bien inférieur pour ces étudiants.",
+    "mk": "Le marché des nouilles instantanées chez les étudiants",
+    "c": "D", "d": -1, "det": "revenu",
+    "w": "Déterminant : le revenu des consommateurs. Pour un bien inférieur, une hausse du revenu fait baisser la demande, car les étudiants délaissent les nouilles pour des repas qu'ils préfèrent. La courbe de demande se déplace vers la gauche : le prix et la quantité d'équilibre diminuent."
+  },
+  {
+    "id": "B-112", "s": "s5", "t": "prev",
+    "q": "Le prix du café augmente fortement dans les épiceries de Montréal.",
+    "mk": "Le marché du thé à Montréal",
+    "c": "D", "d": 1, "det": "biens_associes",
+    "w": "Déterminant : le prix des biens associés. Le café et le thé sont des substituts (alternatives de consommation) : si le café coûte plus cher, des consommateurs se tournent vers le thé et la demande de thé augmente (déplacement vers la droite). Le prix et la quantité d'équilibre du thé augmentent."
+  },
+  {
+    "id": "B-113", "s": "s5", "t": "prev",
+    "q": "Le prix de l'essence augmente fortement au Québec.",
+    "mk": "Le marché des véhicules utilitaires sport (VUS) au Québec",
+    "c": "D", "d": -1, "det": "biens_associes",
+    "w": "Déterminant : le prix des biens associés. L'essence et les automobiles sont des biens complémentaires (consommés conjointement) : si l'essence coûte plus cher, la demande de VUS diminue (déplacement vers la gauche). Le prix et la quantité d'équilibre des VUS diminuent."
+  },
+  {
+    "id": "B-114", "s": "s5", "t": "prev",
+    "q": "Une étude largement diffusée dans les médias québécois associe la consommation de boissons énergisantes à des problèmes cardiaques chez les jeunes.",
+    "mk": "Le marché des boissons énergisantes",
+    "c": "D", "d": -1, "det": "gouts",
+    "w": "Déterminant : les goûts et les préférences des consommateurs. L'étude réduit l'intérêt des consommateurs pour ce bien, comme pour le tabac dans l'exemple du cours : la demande diminue (déplacement vers la gauche). Le prix et la quantité d'équilibre diminuent."
+  },
+  {
+    "id": "B-115", "s": "s5", "t": "prev",
+    "q": "Des centaines de milliers de touristes arrivent à Montréal pour la fin de semaine du Grand Prix du Canada.",
+    "mk": "Le marché des chambres d'hôtel à Montréal",
+    "c": "D", "d": 1, "det": "nb_consommateurs",
+    "w": "Déterminant : le nombre de consommateurs. La hausse du tourisme augmente le nombre physique d'acheteurs sur le territoire : la demande de chambres augmente (déplacement vers la droite). Le prix et la quantité d'équilibre augmentent."
+  },
+  {
+    "id": "B-116", "s": "s5", "t": "prev",
+    "q": "Les grands détaillants d'électronique du Québec annoncent que le prix des téléviseurs augmentera de 25 % le mois prochain.",
+    "mk": "Le marché des téléviseurs au Québec",
+    "c": "D", "d": 1, "det": "anticipations",
+    "w": "Déterminant : les anticipations des consommateurs. Prévoyant un prix futur plus élevé, les consommateurs achètent tout de suite : la demande immédiate augmente (déplacement vers la droite). Le prix et la quantité d'équilibre augmentent."
+  },
+  {
+    "id": "B-117", "s": "s5", "t": "prev",
+    "q": "Avec l'économie au ralenti, les travailleurs de la région de Trois-Rivières craignent de perdre leur emploi au cours des prochains mois.",
+    "mk": "Le marché des voitures neuves à Trois-Rivières",
+    "c": "D", "d": -1, "det": "anticipations",
+    "w": "Déterminant : les anticipations des consommateurs. Les gens prévoient une baisse de leurs revenus futurs et épargnent davantage dès maintenant : la demande immédiate diminue (déplacement vers la gauche). Le prix et la quantité d'équilibre diminuent."
+  },
+  {
+    "id": "B-118", "s": "s7", "t": "prev",
+    "q": "Le prix de la farine baisse fortement chez les fournisseurs des boulangeries.",
+    "mk": "Le marché du pain dans les boulangeries de la ville de Québec",
+    "c": "O", "d": 1, "det": "intrants",
+    "w": "Déterminant : le prix des intrants. La farine est une matière première : si son prix baisse, les coûts de production diminuent et les boulangeries offrent davantage à chaque prix. L'offre augmente (déplacement vers la droite) : le prix d'équilibre diminue et la quantité d'équilibre augmente."
+  },
+  {
+    "id": "B-119", "s": "s7", "t": "prev",
+    "q": "Le prix du fromage en grains augmente considérablement chez les fromageries qui approvisionnent les casse-croûte.",
+    "mk": "Le marché de la poutine dans les casse-croûte du Québec",
+    "c": "O", "d": -1, "det": "intrants",
+    "w": "Déterminant : le prix des intrants. Le fromage en grains est une matière première de la poutine : sa hausse fait monter les coûts de production et, pour garder leur marge de profit, les casse-croûte offrent moins à chaque prix. L'offre diminue (déplacement vers la gauche) : le prix d'équilibre augmente et la quantité d'équilibre diminue."
+  },
+  {
+    "id": "B-120", "s": "s7", "t": "prev",
+    "q": "Les usines de portes et fenêtres du Québec adoptent une nouvelle chaîne de production automatisée qui réduit le coût de fabrication de chaque unité.",
+    "mk": "Le marché des portes et fenêtres au Québec",
+    "c": "O", "d": 1, "det": "technologie",
+    "w": "Déterminant : la technologie. Des techniques de production plus efficaces augmentent la capacité de production et réduisent le coût unitaire : l'offre augmente (déplacement vers la droite). Le prix d'équilibre diminue et la quantité d'équilibre augmente."
+  },
+  {
+    "id": "B-121", "s": "s7", "t": "prev",
+    "q": "Cinq nouvelles microbrasseries ouvrent leurs portes en Estrie au cours de l'année.",
+    "mk": "Le marché de la bière de microbrasserie en Estrie",
+    "c": "O", "d": 1, "det": "nb_entreprises",
+    "w": "Déterminant : le nombre d'entreprises. Plus il y a de vendeurs sur le marché, plus l'offre augmente (déplacement vers la droite). Le prix d'équilibre diminue et la quantité d'équilibre augmente."
+  },
+  {
+    "id": "B-122", "s": "s7", "t": "prev",
+    "q": "Faute de relève, plusieurs garages de réparation automobile de Sherbrooke ferment définitivement leurs portes.",
+    "mk": "Le marché de la réparation automobile à Sherbrooke",
+    "c": "O", "d": -1, "det": "nb_entreprises",
+    "w": "Déterminant : le nombre d'entreprises. Moins de vendeurs offrent ce service : l'offre diminue (déplacement vers la gauche). Le prix d'équilibre augmente et la quantité d'équilibre diminue."
+  },
+  {
+    "id": "B-123", "s": "s7", "t": "prev",
+    "q": "Le gouvernement du Québec abolit l'aide financière qu'il versait aux producteurs de tomates de serre.",
+    "mk": "Le marché des tomates de serre du Québec",
+    "c": "O", "d": -1, "det": "subventions",
+    "w": "Déterminant : les subventions. Sans cette aide financière, les producteurs font moins de profit pour un même prix de vente et produisent moins : l'offre diminue (déplacement vers la gauche). Le prix d'équilibre augmente et la quantité d'équilibre diminue."
+  },
+  {
+    "id": "B-124", "s": "s7", "t": "prev",
+    "q": "Une sécheresse prolongée frappe les bleuetières du Lac-Saint-Jean pendant tout l'été.",
+    "mk": "Le marché des bleuets du Québec",
+    "c": "O", "d": -1, "det": "climat",
+    "w": "Déterminant : les conditions climatiques. Une sécheresse est une condition défavorable qui réduit la production de denrées : l'offre de bleuets diminue (déplacement vers la gauche). Le prix d'équilibre augmente et la quantité d'équilibre diminue."
+  },
+  {
+    "id": "B-125", "s": "s7", "t": "prev",
+    "q": "Un été chaud et ensoleillé, avec des pluies régulières, donne une récolte exceptionnelle de fraises à l'île d'Orléans.",
+    "mk": "Le marché des fraises de l'île d'Orléans",
+    "c": "O", "d": 1, "det": "climat",
+    "w": "Déterminant : les conditions climatiques. Une température clémente est une condition favorable qui augmente la production : l'offre de fraises augmente (déplacement vers la droite). Le prix d'équilibre diminue et la quantité d'équilibre augmente."
+  }
+]

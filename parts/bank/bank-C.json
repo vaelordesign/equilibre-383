@@ -1,0 +1,1471 @@
+[
+ {
+  "id": "C-001",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Selon la définition vue en classe, qu'est-ce que le prix d'équilibre?",
+  "o": [
+   "Le prix le plus bas auquel les producteurs acceptent de vendre",
+   "Le prix fixé par l'État pour protéger un groupe précis",
+   "Le prix pour lequel la quantité offerte et la quantité demandée s'égalisent",
+   "Le prix pour lequel la quantité demandée est la plus élevée"
+  ],
+  "a": 2,
+  "w": "Le prix d'équilibre est celui pour lequel la quantité offerte et la quantité demandée s'égalisent : les prix s'ajustent pour que les deux quantités soient égales. Piège : un prix fixé par l'État (plafond ou plancher) est un prix artificiel, justement différent du prix d'équilibre."
+ },
+ {
+  "id": "C-002",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Sur le marché des pizzas, le prix courant est inférieur au prix d'équilibre. Quelle situation observe-t-on?",
+  "o": [
+   "Un surplus, car la quantité offerte dépasse la quantité demandée",
+   "Une pénurie, car la quantité demandée dépasse la quantité offerte",
+   "Un équilibre, car les consommateurs achètent davantage",
+   "Une baisse de la demande, car le prix est trop bas"
+  ],
+  "a": 1,
+  "w": "Si le prix est trop bas, la quantité demandée est supérieure à la quantité offerte : c'est une demande excédentaire, donc une pénurie. Piège : un prix bas ne change pas la demande (la courbe), il fait seulement varier la quantité demandée."
+ },
+ {
+  "id": "C-003",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Au début de la pandémie, il manquait de masques médicaux et de gel hydroalcoolique. En théorie, que devait-il se produire sur ce marché pour revenir à l'équilibre?",
+  "o": [
+   "Le prix baisse, la quantité demandée augmente et la quantité offerte diminue",
+   "La demande diminue et l'offre augmente jusqu'à ce que les courbes se croisent",
+   "Le prix reste stable et l'État fixe un prix plancher",
+   "Le prix augmente, la quantité demandée diminue et la quantité offerte augmente"
+  ],
+  "a": 3,
+  "w": "C'est une pénurie (Qd > Qo au prix courant). Le bien est rare, donc le prix subit une pression à la hausse : la quantité demandée baisse et la quantité offerte augmente, par des déplacements sur les courbes, jusqu'au nouvel équilibre. Piège : ce ne sont pas les courbes (la demande et l'offre) qui bougent."
+ },
+ {
+  "id": "C-004",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Une « offre excédentaire » est un autre nom pour :",
+  "o": [
+   "une situation de surplus",
+   "une situation de pénurie",
+   "une hausse de l'offre",
+   "une baisse de la demande"
+  ],
+  "a": 0,
+  "w": "Offre excédentaire = surplus : au prix courant, la quantité offerte est supérieure à la quantité demandée. Piège : ne pas confondre avec une hausse de l'offre, qui est un déplacement de la courbe d'offre vers la droite."
+ },
+ {
+  "id": "C-005",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Sur le marché des pizzas, au prix de 7 $, la quantité demandée est de 1 200 pizzas et la quantité offerte, de 800 pizzas. Comment décrit-on cette situation?",
+  "o": [
+   "Un surplus de 400 pizzas",
+   "Une pénurie de 1 200 pizzas",
+   "Une pénurie de 400 pizzas",
+   "Un surplus de 800 pizzas"
+  ],
+  "a": 2,
+  "w": "La quantité demandée (1 200) dépasse la quantité offerte (800) : c'est une pénurie, dont l'ampleur est Qd - Qo = 1 200 - 800 = 400 pizzas. Piège : l'ampleur est l'écart entre les deux quantités, pas l'une des deux quantités."
+ },
+ {
+  "id": "C-006",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Selon la règle à retenir vue en classe, qu'arrive-t-il au prix d'un bien ou d'un service qui devient rare?",
+  "o": [
+   "Il a tendance à baisser",
+   "Il a tendance à augmenter",
+   "Il reste stable",
+   "Il devient égal au prix plancher"
+  ],
+  "a": 1,
+  "w": "Règle du prof : bien ou service rare = hausse des prix; bien ou service abondant = baisse des prix. La rareté correspond à une pénurie, qui exerce une pression à la hausse sur le prix."
+ },
+ {
+  "id": "C-007",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Au prix courant, 500 billets d'un spectacle sont offerts, mais seulement 300 sont demandés. Qu'arrivera-t-il au prix, en théorie?",
+  "o": [
+   "Il subira une pression à la hausse, car il y a une pénurie",
+   "Il restera stable, car le marché est à l'équilibre",
+   "Il subira une pression à la hausse, car il y a un surplus",
+   "Il subira une pression à la baisse, car il y a un surplus"
+  ],
+  "a": 3,
+  "w": "Qo (500) > Qd (300) : c'est un surplus (offre excédentaire) de 200 billets. Le bien est abondant, donc le prix subit une pression à la baisse jusqu'à ce que Qo = Qd."
+ },
+ {
+  "id": "C-008",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Pendant le retour à l'équilibre après un surplus, comment évoluent la quantité demandée et la quantité offerte?",
+  "o": [
+   "La quantité demandée augmente et la quantité offerte diminue",
+   "La quantité demandée diminue et la quantité offerte augmente",
+   "La demande augmente et l'offre diminue (déplacement des courbes)",
+   "La quantité demandée et la quantité offerte augmentent toutes deux"
+  ],
+  "a": 0,
+  "w": "En surplus, le prix baisse. À un prix plus bas, les consommateurs veulent acheter davantage (Qd augmente) et les producteurs veulent offrir moins (Qo diminue). Piège : ce sont des déplacements sur les courbes, pas des déplacements de la demande ou de l'offre."
+ },
+ {
+  "id": "C-009",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Pendant le retour à l'équilibre, à quoi correspondent sur le graphique les variations de la quantité demandée et de la quantité offerte?",
+  "o": [
+   "À un déplacement de la courbe de demande vers la droite",
+   "À un déplacement de la courbe d'offre vers la gauche",
+   "À des déplacements sur les courbes, causés par le changement de prix",
+   "À un déplacement des deux courbes en sens opposés"
+  ],
+  "a": 2,
+  "w": "Le prof précise « déplacement sur les courbes » : c'est le prix du bien qui change, et un changement du prix du bien lui-même ne déplace aucune courbe. Seul un déterminant (revenu, intrants, etc.) déplace une courbe."
+ },
+ {
+  "id": "C-010",
+  "s": "s8",
+  "t": "qcm",
+  "q": "Pourquoi le prix n'a-t-il plus tendance à changer lorsqu'un marché est à l'équilibre?",
+  "o": [
+   "Parce que les courbes d'offre et de demande deviennent parallèles",
+   "Parce que la quantité offerte égale la quantité demandée : il n'y a ni pénurie ni surplus",
+   "Parce que les vendeurs ont atteint le prix le plus élevé possible",
+   "Parce que l'État interdit toute variation de prix à l'équilibre"
+  ],
+  "a": 1,
+  "w": "À l'équilibre, tout ce qui est offert trouve preneur : aucune pénurie ne pousse le prix à la hausse et aucun surplus ne le pousse à la baisse. Le prix reste donc stable tant qu'aucun déterminant ne déplace une courbe."
+ },
+ {
+  "id": "C-011",
+  "s": "s8",
+  "t": "vf",
+  "q": "Une pénurie résulte lorsque la quantité demandée est supérieure à la quantité offerte.",
+  "a": true,
+  "w": "Vrai. C'est la définition du prof : pénurie (demande excédentaire) = Qd > Qo. Cela arrive quand le prix est trop bas."
+ },
+ {
+  "id": "C-012",
+  "s": "s8",
+  "t": "vf",
+  "q": "Lorsque le prix est trop élevé, il y a une demande excédentaire.",
+  "a": false,
+  "w": "Faux. Un prix trop élevé crée une offre excédentaire (surplus) : Qo > Qd. La demande excédentaire (pénurie) survient quand le prix est trop bas."
+ },
+ {
+  "id": "C-013",
+  "s": "s8",
+  "t": "vf",
+  "q": "Pendant le retour à l'équilibre après une pénurie, la courbe de demande se déplace vers la gauche.",
+  "a": false,
+  "w": "Faux. Aucune courbe ne se déplace : le prix monte et la quantité demandée diminue par un mouvement sur la courbe de demande. Confondre « baisse de la quantité demandée » et « baisse de la demande » est le piège classique."
+ },
+ {
+  "id": "C-014",
+  "s": "s8",
+  "t": "vf",
+  "q": "Selon la règle vue en classe, un bien ou un service abondant a tendance à voir son prix baisser.",
+  "a": true,
+  "w": "Vrai. Bien abondant = surplus = pression à la baisse sur le prix. À l'inverse, un bien rare voit son prix augmenter."
+ },
+ {
+  "id": "C-015",
+  "s": "s8",
+  "t": "vf",
+  "q": "En situation de surplus, le prix subit une pression à la hausse.",
+  "a": false,
+  "w": "Faux. En surplus (Qo > Qd), les vendeurs n'écoulent pas toute leur production et le prix subit une pression à la baisse. La pression à la hausse correspond à une pénurie."
+ },
+ {
+  "id": "C-016",
+  "s": "s8",
+  "t": "vf",
+  "q": "Pour régler une situation de pénurie, le prix du bien doit augmenter, ce qui entraîne une hausse de la quantité offerte et une baisse de la quantité demandée.",
+  "a": true,
+  "w": "Vrai. La hausse du prix incite les producteurs à offrir plus (Qo augmente) et les consommateurs à acheter moins (Qd diminue), jusqu'à ce que Qo = Qd."
+ },
+ {
+  "id": "C-017",
+  "s": "s8",
+  "t": "vf",
+  "q": "Si, au prix courant, 450 unités sont demandées et 300 unités sont offertes, il y a un surplus de 150 unités.",
+  "a": false,
+  "w": "Faux. Qd (450) > Qo (300) : c'est une pénurie de 150 unités, pas un surplus. Un surplus exigerait que la quantité offerte dépasse la quantité demandée."
+ },
+ {
+  "id": "C-018",
+  "s": "s8",
+  "t": "courte",
+  "q": "Comment appelle-t-on la situation où, au prix courant, la quantité demandée dépasse la quantité offerte?",
+  "acc": [
+   "pénurie",
+   "penurie",
+   "demande excédentaire",
+   "demande excedentaire"
+  ],
+  "m": "Une pénurie (ou demande excédentaire). Au prix courant, trop bas, les consommateurs veulent acheter plus que ce que les producteurs offrent."
+ },
+ {
+  "id": "C-019",
+  "s": "s8",
+  "t": "courte",
+  "q": "Comment appelle-t-on la situation où, au prix courant, la quantité offerte dépasse la quantité demandée?",
+  "acc": [
+   "surplus",
+   "offre excédentaire",
+   "offre excedentaire",
+   "excédent",
+   "excedent"
+  ],
+  "m": "Un surplus (ou offre excédentaire). Au prix courant, trop élevé, les producteurs offrent plus que ce que les consommateurs veulent acheter."
+ },
+ {
+  "id": "C-020",
+  "s": "s8",
+  "t": "courte",
+  "q": "Comment nomme-t-on le prix pour lequel la quantité offerte et la quantité demandée s'égalisent?",
+  "acc": [
+   "prix d'équilibre",
+   "prix d’équilibre",
+   "prix d'equilibre",
+   "équilibre",
+   "equilibre"
+  ],
+  "m": "Le prix d'équilibre. C'est le prix vers lequel le marché s'ajuste, où il n'y a ni pénurie ni surplus."
+ },
+ {
+  "id": "C-021",
+  "s": "s8",
+  "t": "courte",
+  "q": "En situation de pénurie, dans quel sens s'exerce la pression sur le prix?",
+  "acc": [
+   "hausse",
+   "à la hausse",
+   "a la hausse",
+   "vers le haut",
+   "augmentation"
+  ],
+  "m": "À la hausse. Le bien est rare : des acheteurs sont prêts à payer davantage, ce qui fait monter le prix jusqu'à l'équilibre."
+ },
+ {
+  "id": "C-022",
+  "s": "s8",
+  "t": "courte",
+  "q": "Pendant le retour à l'équilibre après un surplus, la quantité offerte augmente-t-elle ou diminue-t-elle?",
+  "acc": [
+   "diminue",
+   "elle diminue",
+   "baisse",
+   "elle baisse",
+   "diminution"
+  ],
+  "m": "Elle diminue. Le prix baisse, ce qui incite les producteurs à offrir moins (mouvement sur la courbe d'offre), pendant que la quantité demandée augmente."
+ },
+ {
+  "id": "C-023",
+  "s": "s8",
+  "t": "calc",
+  "q": "Le tableau suivant présente le marché de la poutine dans un quartier de Laval (portions par semaine). Prix : 8 $, 10 $, 12 $, 14 $, 16 $. Quantité demandée : 1 400, 1 200, 1 000, 800, 600. Quantité offerte : 600, 800, 1 000, 1 200, 1 400. Quel est le prix d'équilibre?",
+  "a": 12,
+  "tol": 0,
+  "u": "$",
+  "m": "<p>On cherche le prix où <b>Qo = Qd</b> (Qo : quantité offerte, parfois notée Qs).</p><p>À 12 $ : Qd = 1 000 et Qo = 1 000.</p><p>Prix d'équilibre = <b>12 $</b> (quantité d'équilibre : 1 000 portions). Sous 12 $, il y a pénurie; au-dessus, surplus.</p>"
+ },
+ {
+  "id": "C-024",
+  "s": "s8",
+  "t": "calc",
+  "q": "Marché du café au comptoir d'un cégep (cafés par semaine). Prix : 1,50 $, 2,00 $, 2,50 $, 3,00 $, 3,50 $. Quantité demandée : 800, 700, 600, 500, 400. Quantité offerte : 200, 400, 600, 800, 1 000. Au prix de 3,50 $, quelle est l'ampleur du surplus?",
+  "a": 600,
+  "tol": 0,
+  "u": "cafés",
+  "m": "<p>À 3,50 $ : Qo = 1 000 et Qd = 400. Qo > Qd, donc surplus.</p><p>Surplus = Qo - Qd = 1 000 - 400 = <b>600 cafés</b>.</p><p>Le prix subira une pression à la baisse jusqu'à 2,50 $ (équilibre à 600 cafés).</p>"
+ },
+ {
+  "id": "C-025",
+  "s": "s8",
+  "t": "calc",
+  "q": "Marché des billets d'un festival à Montréal. Prix : 100 $, 150 $, 200 $, 250 $, 300 $. Quantité demandée : 21 000, 18 000, 15 000, 12 000, 9 000. Quantité offerte : 9 000, 12 000, 15 000, 18 000, 21 000. Au prix de 150 $, quelle est l'ampleur de la pénurie?",
+  "a": 6000,
+  "tol": 0,
+  "u": "billets",
+  "m": "<p>À 150 $ : Qd = 18 000 et Qo = 12 000. Qd > Qo, donc pénurie.</p><p>Pénurie = Qd - Qo = 18 000 - 12 000 = <b>6 000 billets</b>.</p><p>Le prix subira une pression à la hausse jusqu'à 200 $ (équilibre à 15 000 billets).</p>"
+ },
+ {
+  "id": "C-026",
+  "s": "s8",
+  "t": "calc",
+  "q": "Marché des pizzas. Prix : 7 $, 10 $, 12 $. Quantité demandée : 1 200, 1 000, 900. Quantité offerte : 800, 1 000, 1 100. Au prix de 12 $, quelle est l'ampleur du surplus?",
+  "a": 200,
+  "tol": 0,
+  "u": "pizzas",
+  "m": "<p>À 12 $ : Qo = 1 100 et Qd = 900. Qo > Qd, donc surplus (offre excédentaire).</p><p>Surplus = Qo - Qd = 1 100 - 900 = <b>200 pizzas</b>.</p><p>Le prix d'équilibre est de 10 $ (1 000 pizzas); à 12 $, le prix est trop élevé.</p>"
+ },
+ {
+  "id": "C-027",
+  "s": "s8",
+  "t": "calc",
+  "q": "Marché des vélos d'occasion à Montréal (par saison). Prix : 200 $, 300 $, 400 $, 500 $, 600 $. Quantité demandée : 5 000, 4 200, 3 400, 2 600, 1 800. Quantité offerte : 1 800, 2 600, 3 400, 4 200, 5 000. Au prix de 300 $, quelle est l'ampleur de la pénurie?",
+  "a": 1600,
+  "tol": 0,
+  "u": "vélos",
+  "m": "<p>À 300 $ : Qd = 4 200 et Qo = 2 600. Qd > Qo, donc pénurie.</p><p>Pénurie = Qd - Qo = 4 200 - 2 600 = <b>1 600 vélos</b>.</p><p>Équilibre : 400 $ et 3 400 vélos.</p>"
+ },
+ {
+  "id": "C-028",
+  "s": "s8",
+  "t": "calc",
+  "q": "Marché du sirop d'érable (en milliers de canettes). Prix : 6 $, 8 $, 10 $, 12 $, 14 $. Quantité demandée : 50, 44, 38, 32, 26. Quantité offerte : 20, 29, 38, 47, 56. À quel prix observe-t-on une pénurie de 30 milliers de canettes?",
+  "a": 6,
+  "tol": 0,
+  "u": "$",
+  "m": "<p>Une pénurie exige <b>Qd > Qo</b>, donc un prix sous l'équilibre (10 $, où Qd = Qo = 38).</p><p>À 6 $ : 50 - 20 = <b>30</b> milliers (pénurie). À 8 $ : 44 - 29 = 15 milliers.</p><p>Réponse : <b>6 $</b>. Piège : à 14 $, l'écart est aussi de 30, mais Qo > Qd : c'est un surplus.</p>"
+ },
+ {
+  "id": "C-029",
+  "s": "s8",
+  "t": "dev",
+  "q": "Expliquez comment le marché revient à l'équilibre en situation de pénurie.",
+  "m": "<p><b>Pénurie</b> : au prix courant, trop bas, la quantité demandée dépasse la quantité offerte (demande excédentaire). Le bien est rare.</p><p>Il y a donc une <b>pression à la hausse sur le prix</b> : des acheteurs sont prêts à payer davantage pour obtenir le bien.</p><p>La hausse du prix fait <b>baisser la quantité demandée</b> et <b>augmenter la quantité offerte</b>. Ce sont des déplacements <b>sur les courbes</b> : les courbes elles-mêmes ne bougent pas.</p><p>Le prix monte jusqu'à ce que Qo = Qd : c'est le retour au <b>prix d'équilibre</b>.</p>",
+  "crit": [
+   "Définit la pénurie : au prix courant, Qd > Qo (demande excédentaire) (1 pt)",
+   "Indique la pression à la hausse sur le prix, puisque le bien est rare (1 pt)",
+   "Explique que la quantité demandée baisse et que la quantité offerte augmente (1 pt)",
+   "Précise qu'il s'agit de déplacements sur les courbes jusqu'à ce que Qo = Qd au prix d'équilibre (1 pt)"
+  ],
+  "k": [
+   "pénurie",
+   "pression à la hausse",
+   "quantité demandée",
+   "quantité offerte",
+   "sur les courbes",
+   "prix d'équilibre"
+  ]
+ },
+ {
+  "id": "C-030",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Quelle est la première étape de la méthode de prévision en 5 étapes vue en classe?",
+  "o": [
+   "Nommer le déterminant impliqué",
+   "Identifier la courbe affectée et l'effet attendu",
+   "Tracer le graphique du marché",
+   "Déterminer l'effet sur le prix d'équilibre"
+  ],
+  "a": 1,
+  "w": "Ordre du prof : 1) courbe affectée et effet attendu; 2) déterminant impliqué; 3) graphique du marché; 4) effet sur le prix d'équilibre; 5) effet sur la quantité d'équilibre. Le déterminant vient en deuxième."
+ },
+ {
+  "id": "C-031",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Toutes choses étant égales par ailleurs, qu'arrive-t-il au prix et à la quantité d'équilibre lorsque la demande d'un bien augmente?",
+  "o": [
+   "Le prix baisse et la quantité augmente",
+   "Le prix augmente et la quantité diminue",
+   "Le prix et la quantité diminuent",
+   "Le prix et la quantité augmentent"
+  ],
+  "a": 3,
+  "w": "Une hausse de la demande déplace la courbe de demande vers la droite : à l'ancien prix, il y a pénurie, ce qui pousse le prix à la hausse. Le nouvel équilibre a un prix plus élevé et une quantité plus élevée."
+ },
+ {
+  "id": "C-032",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Toutes choses étant égales par ailleurs, qu'arrive-t-il au prix et à la quantité d'équilibre lorsque l'offre d'un bien diminue?",
+  "o": [
+   "Le prix augmente et la quantité diminue",
+   "Le prix et la quantité diminuent",
+   "Le prix baisse et la quantité augmente",
+   "Le prix et la quantité augmentent"
+  ],
+  "a": 0,
+  "w": "Une baisse de l'offre déplace la courbe d'offre vers la gauche : le bien devient plus rare, le prix d'équilibre monte et la quantité d'équilibre baisse. Piège : prix et quantité vont en sens opposés quand c'est l'offre qui bouge."
+ },
+ {
+  "id": "C-033",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Marché des fromages fins au Québec : le nombre d'immigrants français, les plus grands consommateurs de fromages au monde, augmente de façon significative. Quel déterminant est en cause et quel est l'effet attendu?",
+  "o": [
+   "Le nombre d'entreprises, ce qui fait augmenter l'offre",
+   "Le prix des intrants, ce qui fait diminuer l'offre",
+   "Le nombre de consommateurs, ce qui fait augmenter la demande",
+   "Le revenu, ce qui fait diminuer la demande"
+  ],
+  "a": 2,
+  "w": "Il y a plus d'acheteurs sur le marché : la demande de fromages fins augmente (déplacement vers la droite), donc P ↑ et Q ↑. On peut aussi invoquer les goûts et préférences, puisque les Français aiment particulièrement le fromage; les deux mènent à une hausse de la demande."
+ },
+ {
+  "id": "C-034",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Le prix de la viande augmente de façon marquée. Quel est l'effet sur le marché du poisson?",
+  "o": [
+   "La demande de poisson diminue, car la viande est un bien complémentaire",
+   "La demande de poisson augmente, car la viande est un bien substitut",
+   "L'offre de poisson diminue, car les coûts de production augmentent",
+   "Aucun effet, car seul le prix du poisson influence ce marché"
+  ],
+  "a": 1,
+  "w": "La viande et le poisson sont des substituts : quand la viande devient plus chère, des consommateurs se tournent vers le poisson. Déterminant : prix des biens associés (substitut). La demande de poisson augmente, donc P ↑ et Q ↑."
+ },
+ {
+  "id": "C-035",
+  "s": "s9",
+  "t": "qcm",
+  "q": "À la suite d'une sécheresse, le prix du maïs, à la base de la nourriture des bovins, augmente. Quel est l'effet sur le marché du bœuf?",
+  "o": [
+   "L'offre de bœuf diminue : le prix d'équilibre augmente et la quantité d'équilibre diminue",
+   "La demande de bœuf diminue : le prix et la quantité d'équilibre diminuent",
+   "L'offre de bœuf augmente : le prix d'équilibre baisse et la quantité d'équilibre augmente",
+   "La demande de bœuf augmente : le prix et la quantité d'équilibre augmentent"
+  ],
+  "a": 0,
+  "w": "Le maïs est un intrant de la production de bœuf. Son prix monte, donc produire du bœuf coûte plus cher : l'offre de bœuf diminue (vers la gauche), P ↑ et Q ↓. Piège : la sécheresse frappe le marché du maïs; sur le marché du bœuf, le déterminant est le prix des intrants."
+ },
+ {
+  "id": "C-036",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Le prix du chocolat baisse. Qu'arrive-t-il à la demande de chocolat?",
+  "o": [
+   "Elle augmente : la courbe de demande se déplace vers la droite",
+   "Elle diminue : la courbe de demande se déplace vers la gauche",
+   "Elle ne change pas : seule la quantité demandée augmente",
+   "L'offre de chocolat augmente : sa courbe se déplace vers la droite"
+  ],
+  "a": 2,
+  "w": "Un changement du prix du bien lui-même ne déplace aucune courbe : il provoque un mouvement le long de la courbe de demande. La quantité demandée augmente, mais la demande (toute la courbe) reste la même. C'est LE piège demande vs quantité demandée."
+ },
+ {
+  "id": "C-037",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Dans l'exercice sur la cigarette électronique en France, le gouvernement augmente la taxe sur les cigarettes de tabac pour la quatrième fois en trois ans. Par quel déterminant ce fait touche-t-il le marché de la cigarette électronique?",
+  "o": [
+   "Le prix d'un bien complémentaire, ce qui fait baisser la demande",
+   "Le prix des intrants, ce qui fait baisser l'offre",
+   "Le nombre d'entreprises, ce qui fait augmenter l'offre",
+   "Le prix d'un bien substitut, ce qui fait augmenter la demande"
+  ],
+  "a": 3,
+  "w": "La cigarette de tabac est un substitut de la cigarette électronique. Plus le tabac coûte cher, plus des fumeurs passent à la cigarette électronique : la demande augmente, donc P ↑ et Q ↑."
+ },
+ {
+  "id": "C-038",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Dans le même texte sur la cigarette électronique, on lit que près de 2 500 points de vente sont prévus (environ trois nouvelles boutiques par jour) et que de nouvelles techniques de production donnent une meilleure marge de profit. Quels déterminants de l'offre sont en cause?",
+  "o": [
+   "Les goûts et préférences et le nombre de consommateurs",
+   "Le nombre d'entreprises et la technologie",
+   "Le prix des intrants et le climat",
+   "Les subventions et les anticipations"
+  ],
+  "a": 1,
+  "w": "Plus de boutiques = hausse du nombre d'entreprises (vendeurs); nouvelles techniques de production = technologie. Les deux font augmenter l'offre (déplacement vers la droite) : P ↓ et Q ↑."
+ },
+ {
+  "id": "C-039",
+  "s": "s9",
+  "t": "qcm",
+  "q": "Pendant la pandémie, la production d'arachides aux États-Unis est diminuée de moitié. Que risque-t-il de se produire sur le marché du beurre d'arachides au Canada?",
+  "o": [
+   "L'offre diminue (prix des intrants) : le prix augmente et la quantité diminue",
+   "La demande diminue (revenu) : le prix et la quantité diminuent",
+   "L'offre augmente (technologie) : le prix baisse et la quantité augmente",
+   "La demande augmente (anticipations) : le prix et la quantité augmentent"
+  ],
+  "a": 0,
+  "w": "Les arachides sont l'intrant principal du beurre d'arachides. Devenues plus rares, elles coûtent plus cher : l'offre de beurre d'arachides diminue, donc P ↑ et Q ↓."
+ },
+ {
+  "id": "C-040",
+  "s": "s9",
+  "t": "vf",
+  "q": "Si l'offre d'un bien augmente, son prix d'équilibre baisse et sa quantité d'équilibre augmente.",
+  "a": true,
+  "w": "Vrai. Une hausse de l'offre (vers la droite) rend le bien plus abondant : P ↓ et Q ↑. C'est la réponse au récapitulatif du prof (le prix baisse, la quantité échangée augmente)."
+ },
+ {
+  "id": "C-041",
+  "s": "s9",
+  "t": "vf",
+  "q": "Une hausse du prix du café fait déplacer la courbe de demande de café vers la gauche.",
+  "a": false,
+  "w": "Faux. Le prix du bien lui-même ne déplace pas la courbe : la hausse du prix du café entraîne une baisse de la quantité demandée de café, par un mouvement le long de la courbe."
+ },
+ {
+  "id": "C-042",
+  "s": "s9",
+  "t": "vf",
+  "q": "Dans l'exercice sur la COVID, la peur des pénuries qui pousse les ménages à faire des réserves de beurre d'arachides relève du déterminant des anticipations.",
+  "a": true,
+  "w": "Vrai. Les consommateurs anticipent des pénuries et un confinement, alors ils achètent davantage maintenant pour stocker : la demande augmente."
+ },
+ {
+  "id": "C-043",
+  "s": "s9",
+  "t": "vf",
+  "q": "Une baisse de la demande fait baisser le prix d'équilibre et augmenter la quantité d'équilibre.",
+  "a": false,
+  "w": "Faux. Une baisse de la demande fait baisser le prix ET la quantité d'équilibre. Prix et quantité vont dans le même sens quand c'est la demande qui bouge, en sens opposés quand c'est l'offre."
+ },
+ {
+  "id": "C-044",
+  "s": "s9",
+  "t": "vf",
+  "q": "Sur le marché du bœuf, la sécheresse qui fait grimper le prix du maïs provoque une hausse de la demande de bœuf.",
+  "a": false,
+  "w": "Faux. Le maïs est un intrant de l'élevage : c'est l'offre de bœuf qui diminue (prix des intrants), ce qui donne P ↑ et Q ↓. La demande de bœuf n'est pas touchée."
+ },
+ {
+  "id": "C-045",
+  "s": "s9",
+  "t": "vf",
+  "q": "Lorsque le revenu des ménages baisse, la demande d'un bien inférieur comme le Kraft Dinner augmente.",
+  "a": true,
+  "w": "Vrai. La demande d'un bien inférieur évolue en sens inverse du revenu. Avec les pertes d'emploi de la pandémie, les ménages se sont tournés vers ces produits peu coûteux."
+ },
+ {
+  "id": "C-046",
+  "s": "s9",
+  "t": "courte",
+  "q": "Dans l'exercice sur la cigarette électronique, quel déterminant de la demande explique que le produit « séduit de plus en plus » de fumeurs qui veulent délaisser le tabac pour leur santé?",
+  "acc": [
+   "goûts et préférences",
+   "gouts et preferences",
+   "goûts",
+   "gouts",
+   "préférences",
+   "preferences"
+  ],
+  "m": "Les goûts et préférences. Les consommateurs apprécient davantage le produit, donc la demande de cigarettes électroniques augmente (P ↑, Q ↑)."
+ },
+ {
+  "id": "C-047",
+  "s": "s9",
+  "t": "courte",
+  "q": "Comment appelle-t-on un bien dont la demande augmente quand le revenu des consommateurs diminue?",
+  "acc": [
+   "bien inférieur",
+   "bien inferieur",
+   "inférieur",
+   "inferieur"
+  ],
+  "m": "Un bien inférieur. Pendant la pandémie, les pertes d'emploi ont fait augmenter la demande de produits comme le Kraft Dinner ou le beurre d'arachides."
+ },
+ {
+  "id": "C-048",
+  "s": "s9",
+  "t": "courte",
+  "q": "Quelle est la deuxième étape de la méthode de prévision en 5 étapes vue en classe?",
+  "acc": [
+   "déterminant impliqué",
+   "determinant implique",
+   "déterminant",
+   "determinant",
+   "nommer le déterminant",
+   "identifier le déterminant"
+  ],
+  "m": "Le déterminant impliqué. Après avoir identifié la courbe affectée et l'effet attendu (étape 1), on nomme le déterminant qui explique ce déplacement."
+ },
+ {
+  "id": "C-049",
+  "s": "s9",
+  "t": "dev",
+  "q": "Dans l'exercice sur le marché de la cigarette électronique en France, identifiez un déterminant de la demande et un déterminant de l'offre (nom précis et référence au texte). Pour chacun, indiquez le sens du déplacement et l'effet sur le prix et la quantité d'équilibre.",
+  "m": "<p><b>Demande</b> : goûts et préférences (la cigarette électronique « séduit de plus en plus », des fumeurs veulent délaisser le tabac pour leur santé) OU prix d'un bien substitut (4e hausse en 3 ans de la taxe sur les cigarettes de tabac).</p><p>Effet : <b>hausse de la demande</b> (vers la droite), donc prix d'équilibre ↑ et quantité d'équilibre ↑.</p><p><b>Offre</b> : nombre d'entreprises (près de 2 500 points de vente, environ 3 boutiques de plus par jour) OU technologie (nouvelles techniques de production, meilleure marge).</p><p>Effet : <b>hausse de l'offre</b> (vers la droite), donc prix d'équilibre ↓ et quantité d'équilibre ↑.</p>",
+  "crit": [
+   "Nomme un déterminant de la demande avec une référence au texte : goûts et préférences ou prix d'un substitut (1 pt)",
+   "Conclut à une hausse de la demande, avec P ↑ et Q ↑ (1 pt)",
+   "Nomme un déterminant de l'offre avec une référence au texte : nombre d'entreprises ou technologie (1 pt)",
+   "Conclut à une hausse de l'offre, avec P ↓ et Q ↑ (1 pt)"
+  ],
+  "k": [
+   "goûts et préférences",
+   "bien substitut",
+   "nombre d'entreprises",
+   "technologie",
+   "hausse de la demande",
+   "hausse de l'offre"
+  ]
+ },
+ {
+  "id": "C-050",
+  "s": "s9",
+  "t": "dev",
+  "q": "Au début de la pandémie de COVID-19, on observe une ruée sur le beurre d'arachides et le Kraft Dinner. Nommez et expliquez trois déterminants de la demande qui peuvent expliquer cet engouement, puis donnez l'effet sur le prix et la quantité d'équilibre.",
+  "m": "<ul><li><b>Anticipations</b> : les ménages craignent des pénuries et un confinement, alors ils achètent davantage maintenant pour faire des réserves.</li><li><b>Goûts et préférences</b> : on préfère des produits non périssables et faciles à préparer.</li><li><b>Revenu</b> : les pertes d'emploi font baisser le revenu; ces produits peu coûteux sont des biens inférieurs, dont la demande augmente quand le revenu baisse.</li></ul><p>Conclusion : <b>hausse de la demande</b> (vers la droite), donc prix d'équilibre ↑ et quantité d'équilibre ↑.</p>",
+  "crit": [
+   "Explique les anticipations : peur des pénuries, on fait des réserves (1 pt)",
+   "Explique les goûts et préférences : produits non périssables et faciles (1 pt)",
+   "Explique le revenu : pertes d'emploi, biens inférieurs (1 pt)",
+   "Conclut à une hausse de la demande, avec P ↑ et Q ↑ (1 pt)"
+  ],
+  "k": [
+   "anticipations",
+   "goûts et préférences",
+   "revenu",
+   "bien inférieur",
+   "hausse de la demande"
+  ]
+ },
+ {
+  "id": "C-051",
+  "s": "s9",
+  "t": "prev",
+  "q": "L'économie québécoise est en forte croissance et le revenu des ménages augmente sensiblement.",
+  "mk": "Le marché des voyages dans le Sud",
+  "c": "D",
+  "d": 1,
+  "det": "revenu",
+  "w": "Déterminant : le revenu. Les voyages dans le Sud sont un bien normal : quand le revenu augmente, les ménages en achètent davantage à chaque prix. La demande augmente (vers la droite), donc le prix et la quantité d'équilibre augmentent."
+ },
+ {
+  "id": "C-052",
+  "s": "s9",
+  "t": "prev",
+  "q": "Une récession frappe le Québec : de nombreux travailleurs perdent leur emploi et le revenu des ménages diminue.",
+  "mk": "Le marché des repas au restaurant à Montréal",
+  "c": "D",
+  "d": -1,
+  "det": "revenu",
+  "w": "Déterminant : le revenu. Les repas au restaurant sont un bien normal : avec un revenu plus faible, les ménages en achètent moins à chaque prix. La demande diminue (vers la gauche), donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-053",
+  "s": "s9",
+  "t": "prev",
+  "q": "Les pertes d'emploi se multiplient et le revenu des ménages diminue. Les nouilles instantanées sont un bien inférieur.",
+  "mk": "Le marché des nouilles instantanées",
+  "c": "D",
+  "d": 1,
+  "det": "revenu",
+  "w": "Déterminant : le revenu. La demande d'un bien inférieur évolue en sens inverse du revenu : quand le revenu baisse, les ménages remplacent des aliments plus chers par des nouilles instantanées. La demande augmente, donc le prix et la quantité d'équilibre augmentent."
+ },
+ {
+  "id": "C-054",
+  "s": "s9",
+  "t": "prev",
+  "q": "La STM augmente fortement le prix de ses passages d'autobus et de métro.",
+  "mk": "Le marché des locations de vélos BIXI à Montréal",
+  "c": "D",
+  "d": 1,
+  "det": "biens_associes",
+  "w": "Déterminant : le prix d'un bien associé. Le transport en commun est un substitut du BIXI : quand il devient plus cher, des usagers se tournent vers le vélo en libre-service. La demande de BIXI augmente, donc le prix et la quantité d'équilibre augmentent."
+ },
+ {
+  "id": "C-055",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le prix des consoles de jeux vidéo augmente de 40 %.",
+  "mk": "Le marché des jeux vidéo",
+  "c": "D",
+  "d": -1,
+  "det": "biens_associes",
+  "w": "Déterminant : le prix d'un bien associé. La console est un bien complémentaire des jeux vidéo (on les utilise ensemble) : plus chère, elle trouve moins d'acheteurs, qui achètent donc moins de jeux. La demande de jeux vidéo diminue, donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-056",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le prix du thé baisse fortement dans les épiceries du Québec.",
+  "mk": "Le marché du café",
+  "c": "D",
+  "d": -1,
+  "det": "biens_associes",
+  "w": "Déterminant : le prix d'un bien associé. Le thé est un substitut du café : devenu moins cher, il attire une partie des buveurs de café. La demande de café diminue, donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-057",
+  "s": "s9",
+  "t": "prev",
+  "q": "Une vaste campagne présente les bleuets du Lac-Saint-Jean comme un super-aliment excellent pour la santé, et ils deviennent très à la mode.",
+  "mk": "Le marché des bleuets du Lac-Saint-Jean",
+  "c": "D",
+  "d": 1,
+  "det": "gouts",
+  "w": "Déterminant : les goûts et préférences. Les consommateurs apprécient davantage les bleuets et veulent en acheter plus à chaque prix. La demande augmente, donc le prix et la quantité d'équilibre augmentent."
+ },
+ {
+  "id": "C-058",
+  "s": "s9",
+  "t": "prev",
+  "q": "Plusieurs études très médiatisées associent les boissons énergisantes à des problèmes cardiaques chez les jeunes, et de nombreux cégépiens s'en détournent.",
+  "mk": "Le marché des boissons énergisantes",
+  "c": "D",
+  "d": -1,
+  "det": "gouts",
+  "w": "Déterminant : les goûts et préférences. Inquiets pour leur santé, les consommateurs apprécient moins ce produit. La demande diminue, donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-059",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le nombre d'étudiants étrangers et de nouveaux arrivants qui s'installent à Montréal augmente fortement.",
+  "mk": "Le marché des logements locatifs à Montréal",
+  "c": "D",
+  "d": 1,
+  "det": "nb_consommateurs",
+  "w": "Déterminant : le nombre de consommateurs. Plus de ménages cherchent un logement à louer. La demande de logements augmente, donc le loyer d'équilibre et le nombre de logements loués augmentent."
+ },
+ {
+  "id": "C-060",
+  "s": "s9",
+  "t": "prev",
+  "q": "Une petite ville de la Côte-Nord perd le tiers de sa population : de nombreuses familles partent s'installer à Québec.",
+  "mk": "Le marché de la poutine dans les casse-croûte de cette ville",
+  "c": "D",
+  "d": -1,
+  "det": "nb_consommateurs",
+  "w": "Déterminant : le nombre de consommateurs. Il y a moins d'acheteurs dans la ville. La demande de poutine diminue, donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-061",
+  "s": "s9",
+  "t": "prev",
+  "q": "Les automobilistes apprennent que le prix de l'essence augmentera de 20 cents le litre à partir de la semaine prochaine.",
+  "mk": "Le marché de l'essence (cette semaine)",
+  "c": "D",
+  "d": 1,
+  "det": "anticipations",
+  "w": "Déterminant : les anticipations. Les automobilistes s'attendent à payer plus cher bientôt, alors ils font le plein maintenant. La demande d'essence de cette semaine augmente, donc le prix et la quantité d'équilibre augmentent."
+ },
+ {
+  "id": "C-062",
+  "s": "s9",
+  "t": "prev",
+  "q": "Les consommateurs s'attendent à ce que le prix des téléviseurs baisse fortement lors du Vendredi fou, dans trois semaines.",
+  "mk": "Le marché des téléviseurs (d'ici le Vendredi fou)",
+  "c": "D",
+  "d": -1,
+  "det": "anticipations",
+  "w": "Déterminant : les anticipations. Les consommateurs prévoient un prix plus bas bientôt et reportent leurs achats. La demande actuelle de téléviseurs diminue, donc le prix et la quantité d'équilibre baissent."
+ },
+ {
+  "id": "C-063",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le prix du fromage en grains et des pommes de terre augmente fortement au Québec.",
+  "mk": "Le marché de la poutine",
+  "c": "O",
+  "d": -1,
+  "det": "intrants",
+  "w": "Déterminant : le prix des intrants. Le fromage en grains et les pommes de terre servent à produire la poutine : les restaurateurs voient leurs coûts augmenter et offrent moins à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-064",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le prix des grains de café vert, que les torréfacteurs québécois achètent pour produire leur café, chute de 30 % sur les marchés mondiaux.",
+  "mk": "Le marché du café torréfié au Québec",
+  "c": "O",
+  "d": 1,
+  "det": "intrants",
+  "w": "Déterminant : le prix des intrants. Le café vert est la matière première des torréfacteurs : leurs coûts baissent, alors ils offrent davantage à chaque prix. L'offre augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-065",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le prix du pétrole brut, principale matière première des raffineries, augmente fortement.",
+  "mk": "Le marché de l'essence",
+  "c": "O",
+  "d": -1,
+  "det": "intrants",
+  "w": "Déterminant : le prix des intrants. Le pétrole brut sert à produire l'essence : le coût de production augmente, donc les raffineurs offrent moins à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-066",
+  "s": "s9",
+  "t": "prev",
+  "q": "Les acériculteurs adoptent un nouveau système de tubulure sous vide qui permet de récolter beaucoup plus d'eau d'érable à moindre coût.",
+  "mk": "Le marché du sirop d'érable",
+  "c": "O",
+  "d": 1,
+  "det": "technologie",
+  "w": "Déterminant : la technologie. Une meilleure technique de production réduit les coûts et augmente la production possible. L'offre de sirop augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-067",
+  "s": "s9",
+  "t": "prev",
+  "q": "Une nouvelle moissonneuse guidée par GPS permet aux producteurs de maïs de récolter plus rapidement et à moindre coût.",
+  "mk": "Le marché du maïs",
+  "c": "O",
+  "d": 1,
+  "det": "technologie",
+  "w": "Déterminant : la technologie. Les producteurs récoltent davantage pour le même coût. L'offre de maïs augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-068",
+  "s": "s9",
+  "t": "prev",
+  "q": "De nombreux nouveaux cafés de quartier ouvrent leurs portes sur le Plateau-Mont-Royal.",
+  "mk": "Le marché des cafés de spécialité sur le Plateau-Mont-Royal",
+  "c": "O",
+  "d": 1,
+  "det": "nb_entreprises",
+  "w": "Déterminant : le nombre d'entreprises. Plus de vendeurs sont présents sur le marché, donc plus de cafés sont offerts à chaque prix. L'offre augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-069",
+  "s": "s9",
+  "t": "prev",
+  "q": "Plusieurs producteurs de bleuets du Lac-Saint-Jean prennent leur retraite et ferment leur ferme, faute de relève.",
+  "mk": "Le marché des bleuets du Lac-Saint-Jean",
+  "c": "O",
+  "d": -1,
+  "det": "nb_entreprises",
+  "w": "Déterminant : le nombre d'entreprises. Moins de producteurs signifie moins de bleuets offerts à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-070",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le gouvernement du Québec verse une aide financière aux entreprises québécoises qui fabriquent des vélos électriques, pour chaque vélo produit.",
+  "mk": "Le marché des vélos électriques fabriqués au Québec",
+  "c": "O",
+  "d": 1,
+  "det": "subventions",
+  "w": "Déterminant : les subventions. L'aide versée aux fabricants réduit leur coût de production par vélo, alors ils en offrent davantage à chaque prix. L'offre augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-071",
+  "s": "s9",
+  "t": "prev",
+  "q": "Le gouvernement abolit la subvention qu'il versait aux producteurs de maïs pour chaque tonne récoltée.",
+  "mk": "Le marché du maïs",
+  "c": "O",
+  "d": -1,
+  "det": "subventions",
+  "w": "Déterminant : les subventions. Sans cette aide, produire du maïs revient plus cher aux producteurs, qui en offrent moins à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-072",
+  "s": "s9",
+  "t": "prev",
+  "q": "Une sécheresse sévère frappe le Mexique, principal pays producteur d'avocats.",
+  "mk": "Le marché des avocats",
+  "c": "O",
+  "d": -1,
+  "det": "climat",
+  "w": "Déterminant : le climat. Les mauvaises conditions météo réduisent les récoltes, donc moins d'avocats sont offerts à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-073",
+  "s": "s9",
+  "t": "prev",
+  "q": "Un printemps idéal, avec des nuits froides et des journées chaudes, donne une coulée exceptionnelle dans les érablières du Québec.",
+  "mk": "Le marché du sirop d'érable",
+  "c": "O",
+  "d": 1,
+  "det": "climat",
+  "w": "Déterminant : le climat. Des conditions météo favorables augmentent la production de sirop. L'offre augmente, donc le prix d'équilibre baisse et la quantité d'équilibre augmente."
+ },
+ {
+  "id": "C-074",
+  "s": "s9",
+  "t": "prev",
+  "q": "Un été froid et très pluvieux détruit une grande partie des récoltes de fraises au Québec.",
+  "mk": "Le marché des fraises du Québec",
+  "c": "O",
+  "d": -1,
+  "det": "climat",
+  "w": "Déterminant : le climat. Les récoltes sont moins abondantes, donc moins de fraises sont offertes à chaque prix. L'offre diminue, donc le prix d'équilibre augmente et la quantité d'équilibre diminue."
+ },
+ {
+  "id": "C-075",
+  "s": "s10",
+  "t": "qcm",
+  "q": "La demande et l'offre d'un bien augmentent en même temps. Que peut-on prévoir avec certitude?",
+  "o": [
+   "Le prix d'équilibre augmente; l'effet sur la quantité est indéterminé",
+   "La quantité d'équilibre augmente; l'effet sur le prix est indéterminé",
+   "Le prix et la quantité d'équilibre augmentent tous les deux",
+   "Le prix d'équilibre baisse; l'effet sur la quantité est indéterminé"
+  ],
+  "a": 1,
+  "w": "Hausse de la demande : P ↑ Q ↑. Hausse de l'offre : P ↓ Q ↑. Les deux effets poussent la quantité à la hausse (certain), mais s'opposent sur le prix : le prix est indéterminé, il dépend de l'ampleur de chaque déplacement."
+ },
+ {
+  "id": "C-076",
+  "s": "s10",
+  "t": "qcm",
+  "q": "La demande d'un bien augmente pendant que son offre diminue. Que peut-on prévoir avec certitude?",
+  "o": [
+   "La quantité d'équilibre augmente; l'effet sur le prix est indéterminé",
+   "La quantité d'équilibre diminue; l'effet sur le prix est indéterminé",
+   "Le prix d'équilibre baisse; l'effet sur la quantité est indéterminé",
+   "Le prix d'équilibre augmente; l'effet sur la quantité est indéterminé"
+  ],
+  "a": 3,
+  "w": "Hausse de la demande : P ↑ Q ↑. Baisse de l'offre : P ↑ Q ↓. Les deux poussent le prix à la hausse (certain); sur la quantité, les effets s'opposent : elle est indéterminée."
+ },
+ {
+  "id": "C-077",
+  "s": "s10",
+  "t": "qcm",
+  "q": "La demande et l'offre d'un bien diminuent en même temps. Que peut-on prévoir avec certitude?",
+  "o": [
+   "La quantité d'équilibre diminue; l'effet sur le prix est indéterminé",
+   "Le prix d'équilibre diminue; l'effet sur la quantité est indéterminé",
+   "Le prix et la quantité d'équilibre diminuent tous les deux",
+   "Le prix d'équilibre augmente; l'effet sur la quantité est indéterminé"
+  ],
+  "a": 0,
+  "w": "Baisse de la demande : P ↓ Q ↓. Baisse de l'offre : P ↑ Q ↓. La quantité baisse à coup sûr; le prix est tiré dans les deux sens, donc indéterminé."
+ },
+ {
+  "id": "C-078",
+  "s": "s10",
+  "t": "qcm",
+  "q": "Marché du sirop d'érable : le sirop devient très populaire en Asie et, la même année, une coulée exceptionnelle augmente fortement la production au Québec. Quel est l'effet sur le marché?",
+  "o": [
+   "Le prix augmente et la quantité est indéterminée",
+   "Le prix baisse et la quantité est indéterminée",
+   "La quantité augmente et le prix est indéterminé",
+   "La quantité diminue et le prix est indéterminé"
+  ],
+  "a": 2,
+  "w": "Demande ↑ (goûts et préférences) et offre ↑ (climat) : les deux font augmenter la quantité, qui monte à coup sûr. La demande pousse le prix vers le haut et l'offre vers le bas : le prix est indéterminé."
+ },
+ {
+  "id": "C-079",
+  "s": "s10",
+  "t": "qcm",
+  "q": "Marché des avocats : une sécheresse réduit les récoltes au Mexique et, en même temps, une étude très médiatisée vante les bienfaits de l'avocat pour la santé. Quel est l'effet sur le marché?",
+  "o": [
+   "Le prix augmente et la quantité est indéterminée",
+   "La quantité augmente et le prix est indéterminé",
+   "Le prix baisse et la quantité est indéterminée",
+   "Le prix et la quantité augmentent tous les deux"
+  ],
+  "a": 0,
+  "w": "Offre ↓ (climat) : P ↑ Q ↓. Demande ↑ (goûts et préférences) : P ↑ Q ↑. Le prix monte à coup sûr; la quantité est tirée dans les deux sens, donc indéterminée."
+ },
+ {
+  "id": "C-080",
+  "s": "s10",
+  "t": "qcm",
+  "q": "Marché de la cigarette électronique : de nouvelles études inquiétantes rendent le produit moins populaire, alors que de nombreuses nouvelles boutiques ouvrent leurs portes. Quel est l'effet sur le marché?",
+  "o": [
+   "Le prix augmente et la quantité est indéterminée",
+   "Le prix baisse et la quantité est indéterminée",
+   "La quantité diminue et le prix est indéterminé",
+   "Le prix et la quantité diminuent tous les deux"
+  ],
+  "a": 1,
+  "w": "Demande ↓ (goûts et préférences) : P ↓ Q ↓. Offre ↑ (nombre d'entreprises) : P ↓ Q ↑. Le prix baisse à coup sûr; la quantité est indéterminée, car les deux effets s'opposent."
+ },
+ {
+  "id": "C-081",
+  "s": "s10",
+  "t": "qcm",
+  "q": "Marché du bœuf : le prix du maïs servant à nourrir les bovins augmente et, en même temps, le prix du porc baisse fortement. Quel est l'effet sur le marché du bœuf?",
+  "o": [
+   "Le prix augmente et la quantité est indéterminée",
+   "Le prix baisse et la quantité est indéterminée",
+   "Le prix et la quantité diminuent tous les deux",
+   "La quantité diminue et le prix est indéterminé"
+  ],
+  "a": 3,
+  "w": "Maïs plus cher (intrant) : l'offre de bœuf diminue, P ↑ Q ↓. Porc moins cher (substitut) : la demande de bœuf diminue, P ↓ Q ↓. La quantité baisse à coup sûr; le prix est indéterminé."
+ },
+ {
+  "id": "C-082",
+  "s": "s10",
+  "t": "qcm",
+  "q": "La demande et l'offre de locations de vélos BIXI augmentent en même temps, mais la hausse de la demande est beaucoup plus forte que celle de l'offre. Quel est l'effet le plus probable sur le marché?",
+  "o": [
+   "Le prix baisse et la quantité augmente",
+   "Le prix et la quantité diminuent",
+   "Le prix et la quantité augmentent",
+   "Le prix augmente et la quantité diminue"
+  ],
+  "a": 2,
+  "w": "La quantité augmente de toute façon, puisque les deux déplacements la poussent vers le haut. Pour le prix, c'est l'ampleur qui tranche : la demande, qui pousse le prix vers le haut, l'emporte sur l'offre. Le prix augmente donc lui aussi."
+ },
+ {
+  "id": "C-083",
+  "s": "s10",
+  "t": "vf",
+  "q": "Lorsque la demande diminue et que l'offre augmente en même temps, le prix d'équilibre baisse à coup sûr.",
+  "a": true,
+  "w": "Vrai. Baisse de la demande : P ↓. Hausse de l'offre : P ↓. Les deux effets vont dans le même sens pour le prix; c'est la quantité qui est indéterminée."
+ },
+ {
+  "id": "C-084",
+  "s": "s10",
+  "t": "vf",
+  "q": "Lorsque la demande et l'offre augmentent en même temps, le prix d'équilibre augmente toujours.",
+  "a": false,
+  "w": "Faux. La quantité augmente à coup sûr, mais le prix est indéterminé : la demande le pousse vers le haut et l'offre vers le bas. Tout dépend de l'ampleur des deux déplacements."
+ },
+ {
+  "id": "C-085",
+  "s": "s10",
+  "t": "vf",
+  "q": "Quand deux courbes se déplacent en même temps, la variable sur laquelle les deux effets s'opposent est indéterminée.",
+  "a": true,
+  "w": "Vrai. C'est le truc : on combine les deux cas simples. Si les deux déplacements poussent une variable dans le même sens, elle est certaine; s'ils la poussent en sens opposés, elle dépend de l'ampleur de chaque déplacement."
+ },
+ {
+  "id": "C-086",
+  "s": "s10",
+  "t": "vf",
+  "q": "Si la demande augmente et que l'offre diminue en même temps, la quantité d'équilibre augmente à coup sûr.",
+  "a": false,
+  "w": "Faux. C'est le prix qui augmente à coup sûr, puisque les deux effets le poussent vers le haut. La quantité est indéterminée : la hausse de la demande la pousse vers le haut, la baisse de l'offre vers le bas."
+ },
+ {
+  "id": "C-087",
+  "s": "s10",
+  "t": "dev",
+  "q": "Sur le marché du café, une étude très médiatisée vante les bienfaits du café pour la santé et, au même moment, une sécheresse au Brésil détruit une partie des récoltes. Prévoyez l'effet sur le prix et sur la quantité d'équilibre, en justifiant votre réponse.",
+  "m": "<p><b>Demande</b> : les goûts et préférences favorisent le café, donc <b>hausse de la demande</b> (vers la droite) : P ↑ et Q ↑.</p><p><b>Offre</b> : le climat (sécheresse) réduit les récoltes, donc <b>baisse de l'offre</b> (vers la gauche) : P ↑ et Q ↓.</p><p><b>Prix</b> : les deux effets le poussent vers le haut, il <b>augmente à coup sûr</b>.</p><p><b>Quantité</b> : les deux effets s'opposent, elle est <b>indéterminée</b>; elle dépend de l'ampleur relative des deux déplacements.</p>",
+  "crit": [
+   "Identifie une hausse de la demande causée par les goûts et préférences (1 pt)",
+   "Identifie une baisse de l'offre causée par le climat (1 pt)",
+   "Conclut que le prix d'équilibre augmente à coup sûr (1 pt)",
+   "Conclut que la quantité est indéterminée, car elle dépend de l'ampleur des déplacements (1 pt)"
+  ],
+  "k": [
+   "hausse de la demande",
+   "baisse de l'offre",
+   "prix augmente",
+   "indéterminée",
+   "ampleur"
+  ]
+ },
+ {
+  "id": "C-088",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Un prix plafond est un prix :",
+  "o": [
+   "minimum légal, fixé au-dessus du prix d'équilibre",
+   "maximum légal, fixé au-dessus du prix d'équilibre",
+   "maximum légal, fixé au-dessous du prix d'équilibre",
+   "minimum légal, fixé au-dessous du prix d'équilibre"
+  ],
+  "a": 2,
+  "w": "Prix plafond : prix maximal fixé au-dessous du prix d'équilibre dans le but de favoriser un groupe précis (les acheteurs). Piège : « plafond » veut dire maximum, mais il est placé SOUS l'équilibre, sinon il n'a aucun effet."
+ },
+ {
+  "id": "C-089",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Un prix plancher vise principalement à protéger :",
+  "o": [
+   "les consommateurs",
+   "les vendeurs et producteurs",
+   "le gouvernement",
+   "les consommateurs et les producteurs également"
+  ],
+  "a": 1,
+  "w": "Le prix plancher est un prix minimal fixé au-dessus de l'équilibre pour garantir un revenu minimal aux vendeurs et producteurs (ex. : travailleurs au salaire minimum, producteurs de lait). Le prix plafond, lui, protège les acheteurs."
+ },
+ {
+  "id": "C-090",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Quel est l'effet prévisible d'un prix plafond fixé sous le prix d'équilibre?",
+  "o": [
+   "Une pénurie",
+   "Un surplus",
+   "Aucun effet, le marché s'ajuste normalement",
+   "Une hausse du prix d'équilibre"
+  ],
+  "a": 0,
+  "w": "Au prix plafonné, artificiellement bas, les consommateurs veulent acheter plus et les producteurs offrent moins : Qd > Qo, c'est une pénurie. Le prix ne peut pas monter pour corriger la situation, puisque la loi l'interdit."
+ },
+ {
+  "id": "C-091",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Quel est l'effet prévisible d'un prix plancher fixé au-dessus du prix d'équilibre?",
+  "o": [
+   "Une pénurie",
+   "Une baisse de la quantité offerte",
+   "Aucun effet",
+   "Un surplus"
+  ],
+  "a": 3,
+  "w": "Au prix plancher, artificiellement élevé, les producteurs veulent offrir plus et les consommateurs achètent moins : Qo > Qd, c'est un surplus. Piège : la quantité offerte augmente (elle ne baisse pas) quand le prix est plus élevé."
+ },
+ {
+  "id": "C-092",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Le salaire minimum est un exemple de :",
+  "o": [
+   "prix plafond sur le marché du travail",
+   "prix plancher sur le marché du travail",
+   "prix d'équilibre fixé par le marché",
+   "subvention versée aux travailleurs"
+  ],
+  "a": 1,
+  "w": "Le salaire minimum est un salaire (le prix du travail) minimal fixé par l'État au-dessus du salaire d'équilibre pour protéger les travailleurs, qui sont les vendeurs de travail. C'est donc un prix plancher."
+ },
+ {
+  "id": "C-093",
+  "s": "s11",
+  "t": "qcm",
+  "q": "De 2010 jusqu'à la fin de 2019, le prix des cours de conduite au Québec était fixé à 825 $ (plus taxes) au maximum. De quel type de prix s'agit-il?",
+  "o": [
+   "D'un prix plafond, qui protège les acheteurs de cours",
+   "D'un prix plancher, qui protège les écoles de conduite",
+   "D'un prix plancher, qui protège les acheteurs de cours",
+   "D'un prix d'équilibre, fixé par l'offre et la demande"
+  ],
+  "a": 0,
+  "w": "Un prix maximal fixé sous le prix d'équilibre est un prix plafond; il favorise les acheteurs (les élèves). Piège : un prix plancher est un minimum qui protège les vendeurs, ici les écoles de conduite."
+ },
+ {
+  "id": "C-094",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Dans une petite ville, le prix d'équilibre d'un pain est de 4 $. Le gouvernement impose un prix plafond de 5 $. Quel est l'effet de ce prix plafond?",
+  "o": [
+   "Une pénurie, car le prix plafond est trop bas pour les boulangers",
+   "Un surplus, car le prix plafond dépasse le prix d'équilibre",
+   "Aucun effet : le marché reste à l'équilibre, à 4 $",
+   "Une hausse du prix du pain jusqu'au plafond de 5 $"
+  ],
+  "a": 2,
+  "w": "Un prix plafond n'a d'effet que s'il est inférieur au prix d'équilibre. Fixé à 5 $, au-dessus de 4 $, il n'empêche pas le marché d'atteindre son équilibre : rien ne change. Piège : le plafond n'oblige pas à vendre à 5 $, il interdit seulement de dépasser 5 $."
+ },
+ {
+  "id": "C-095",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Une ville fixe un plafond de loyer bien au-dessous du loyer d'équilibre. Laquelle des conséquences suivantes est la plus probable?",
+  "o": [
+   "Un surplus de logements vacants dans la ville",
+   "Une baisse de la demande de logements",
+   "Une hausse du loyer d'équilibre jusqu'au plafond",
+   "De longues listes d'attente et des logements moins bien entretenus"
+  ],
+  "a": 3,
+  "w": "Le plafond crée une pénurie de logements (Qd > Qo). Conséquences : listes d'attente, marché noir (dessous-de-table), détérioration de la qualité, puisque le propriétaire n'a plus besoin d'entretenir son logement pour attirer des locataires. Piège : un surplus serait l'effet d'un prix plancher."
+ },
+ {
+  "id": "C-096",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Au Québec, la loi interdit de revendre un billet de spectacle plus cher que le prix payé. Pour un spectacle très populaire, quelle conséquence secondaire est prévisible?",
+  "o": [
+   "Un surplus de billets invendus au prix légal",
+   "L'apparition d'un marché noir où des billets se revendent plus cher",
+   "Une baisse de la demande de billets pour ce spectacle",
+   "Une hausse de l'offre de billets par les producteurs du spectacle"
+  ],
+  "a": 1,
+  "w": "La loi agit comme un prix plafond sur le marché de la revente. Au prix permis, la quantité demandée dépasse largement la quantité disponible (pénurie) : des acheteurs prêts à payer plus et des détenteurs prêts à vendre plus cher transigent illégalement. C'est le marché noir (scalping)."
+ },
+ {
+  "id": "C-097",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Dans le système canadien de gestion de l'offre (lait, œufs, volaille), comment évite-t-on qu'un surplus important s'accumule concrètement?",
+  "o": [
+   "Par des quotas qui limitent la production de chaque producteur",
+   "Par un prix plafond imposé aux épiceries",
+   "Par des subventions versées aux consommateurs",
+   "Par une baisse du prix garanti sous le prix d'équilibre"
+  ],
+  "a": 0,
+  "w": "Le prix plancher tend à créer un surplus (Qo > Qd). Les quotas de production fixent à l'avance la quantité que chaque producteur a le droit de produire, ce qui limite l'offre avant même qu'elle n'atteigne le marché, plutôt que de racheter ou de détruire les surplus."
+ },
+ {
+  "id": "C-098",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Un gouvernement fixe un prix minimum de 3,00 $ le kilogramme pour le blé acheté aux agriculteurs, alors que le prix d'équilibre est de 2,20 $ le kilogramme. Quelle affirmation est juste?",
+  "o": [
+   "C'est un prix plafond, qui crée une pénurie de blé",
+   "C'est un prix plafond, qui n'a aucun effet sur le marché",
+   "C'est un prix plancher, qui crée une pénurie de blé",
+   "C'est un prix plancher, qui crée un surplus de blé"
+  ],
+  "a": 3,
+  "w": "Un prix minimal fixé au-dessus de l'équilibre (3,00 $ > 2,20 $) est un prix plancher, qui protège les producteurs. À 3,00 $, les agriculteurs offrent plus et les acheteurs achètent moins : Qo > Qd, donc un surplus."
+ },
+ {
+  "id": "C-099",
+  "s": "s11",
+  "t": "qcm",
+  "q": "Sur le graphique du marché du travail peu qualifié vu en classe, quelle courbe représente les travailleurs?",
+  "o": [
+   "La courbe de demande, car les travailleurs demandent des emplois",
+   "La droite du salaire minimum, fixée par l'État",
+   "La courbe d'offre, car les travailleurs offrent leur travail",
+   "La courbe de demande, car les travailleurs sont des consommateurs"
+  ],
+  "a": 2,
+  "w": "Sur le marché du travail, les travailleurs sont les vendeurs : ils OFFRENT leur travail (courbe d'offre). Les entreprises achètent du travail : ce sont elles qui forment la demande. Piège fréquent : croire que les chercheurs d'emploi « demandent »."
+ },
+ {
+  "id": "C-100",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un prix plancher n'a d'effet que s'il est fixé au-dessus du prix d'équilibre.",
+  "a": true,
+  "w": "Vrai. Sous l'équilibre, un prix minimal ne dérange rien : le marché s'établit librement au prix d'équilibre, déjà plus élevé que ce minimum."
+ },
+ {
+  "id": "C-101",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un prix plafond protège les vendeurs en leur garantissant un prix minimal.",
+  "a": false,
+  "w": "Faux. Le prix plafond est un prix MAXIMAL qui protège les acheteurs et consommateurs. C'est le prix plancher (minimal) qui protège les vendeurs et producteurs."
+ },
+ {
+  "id": "C-102",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un salaire minimum fixé au-dessus du salaire d'équilibre crée un surplus de travailleurs, c'est-à-dire du chômage.",
+  "a": true,
+  "w": "Vrai. À ce salaire, plus de personnes offrent leur travail que les entreprises n'en demandent : Qo > Qd sur le marché du travail. Ces personnes qui cherchent un emploi sans en trouver représentent du chômage."
+ },
+ {
+  "id": "C-103",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un prix plancher mène à une situation de pénurie.",
+  "a": false,
+  "w": "Faux. Un prix plancher (au-dessus de l'équilibre) mène à un surplus : Qo > Qd. C'est le prix plafond qui mène à une pénurie."
+ },
+ {
+  "id": "C-104",
+  "s": "s11",
+  "t": "vf",
+  "q": "Un prix plafond de 50 $ imposé sur un marché dont le prix d'équilibre est de 40 $ crée une pénurie.",
+  "a": false,
+  "w": "Faux. Un prix plafond n'a d'effet que s'il est inférieur au prix d'équilibre. À 50 $, il est au-dessus de 40 $ : le marché reste à l'équilibre et il n'y a ni pénurie ni surplus."
+ },
+ {
+  "id": "C-105",
+  "s": "s11",
+  "t": "vf",
+  "q": "L'apparition d'un marché noir est une conséquence possible d'un prix plafond.",
+  "a": true,
+  "w": "Vrai. Le prix plafond crée une pénurie; des acheteurs prêts à payer plus que le plafond concluent des transactions illégales à un prix plus élevé (ex. : revente de billets au-dessus du prix payé)."
+ },
+ {
+  "id": "C-106",
+  "s": "s11",
+  "t": "vf",
+  "q": "Le contrôle des loyers est un exemple de prix plancher, puisqu'il fixe un loyer minimum.",
+  "a": false,
+  "w": "Faux. Le contrôle des loyers fixe un loyer MAXIMUM pour protéger les locataires (les acheteurs) : c'est un prix plafond. Il mène à une pénurie de logements."
+ },
+ {
+  "id": "C-107",
+  "s": "s11",
+  "t": "vf",
+  "q": "Dans le système de gestion de l'offre (lait, œufs, volaille), les quotas de production servent à éviter l'accumulation du surplus créé par le prix plancher.",
+  "a": true,
+  "w": "Vrai. Chaque producteur ne peut produire qu'une quantité déterminée à l'avance, ce qui limite l'offre totale avant qu'elle n'atteigne le marché."
+ },
+ {
+  "id": "C-108",
+  "s": "s11",
+  "t": "courte",
+  "q": "Quel groupe un prix plafond cherche-t-il à favoriser?",
+  "acc": [
+   "acheteurs",
+   "consommateurs",
+   "acheteurs et consommateurs",
+   "acheteurs/consommateurs",
+   "clients"
+  ],
+  "m": "Les acheteurs (consommateurs). Le prix plafond leur permet de payer moins cher qu'à l'équilibre, par exemple les locataires avec le contrôle des loyers."
+ },
+ {
+  "id": "C-109",
+  "s": "s11",
+  "t": "courte",
+  "q": "Selon le récapitulatif du cours, un prix plancher peut mener à quelle situation?",
+  "acc": [
+   "surplus",
+   "offre excédentaire",
+   "offre excedentaire",
+   "excédent",
+   "excedent"
+  ],
+  "m": "Un surplus (offre excédentaire). Au prix plancher, la quantité offerte dépasse la quantité demandée; sur le marché du travail, ce surplus est du chômage."
+ },
+ {
+  "id": "C-110",
+  "s": "s11",
+  "t": "courte",
+  "q": "Un prix plafond est-il problématique lorsqu'il est au-dessus ou en dessous du prix d'équilibre?",
+  "acc": [
+   "en dessous",
+   "en-dessous",
+   "au-dessous",
+   "dessous",
+   "sous",
+   "inférieur"
+  ],
+  "m": "En dessous. Un prix plafond n'a d'effet (et ne crée une pénurie) que s'il est inférieur au prix d'équilibre; au-dessus, le marché reste à l'équilibre."
+ },
+ {
+  "id": "C-111",
+  "s": "s11",
+  "t": "courte",
+  "q": "Comment appelle-t-on le marché illégal où des biens se vendent plus cher que le prix plafond permis?",
+  "acc": [
+   "marché noir",
+   "marche noir",
+   "scalping",
+   "revente illégale",
+   "revente illegale"
+  ],
+  "m": "Le marché noir. Des acheteurs prêts à payer plus que le plafond et des vendeurs prêts à vendre plus cher transigent illégalement, comme dans la revente de billets."
+ },
+ {
+  "id": "C-112",
+  "s": "s11",
+  "t": "courte",
+  "q": "Quel mécanisme la gestion de l'offre utilise-t-elle pour limiter la production de lait avant qu'elle n'atteigne le marché?",
+  "acc": [
+   "quotas",
+   "quota",
+   "quotas de production",
+   "quota de production"
+  ],
+  "m": "Les quotas de production. Chaque producteur n'a le droit de produire qu'une quantité déterminée à l'avance, ce qui évite que le surplus créé par le prix plancher s'accumule."
+ },
+ {
+  "id": "C-113",
+  "s": "s11",
+  "t": "calc",
+  "q": "Dans un quartier de Montréal, le loyer d'équilibre d'un 4½ est de 1 400 $ par mois. La ville impose un plafond de 1 100 $. À ce loyer, 2 600 logements sont offerts, alors que 3 500 ménages cherchent à louer. Quelle est l'ampleur de la pénurie de logements?",
+  "a": 900,
+  "tol": 0,
+  "u": "logements",
+  "m": "<p>Le plafond (1 100 $) est sous l'équilibre (1 400 $) : il a un effet et crée une pénurie.</p><p>Pénurie = Qd - Qo = 3 500 - 2 600 = <b>900 logements</b>.</p>"
+ },
+ {
+  "id": "C-114",
+  "s": "s11",
+  "t": "calc",
+  "q": "Sur le marché du travail peu qualifié d'une région, le salaire d'équilibre serait de 14 $/h. Le gouvernement impose un salaire minimum de 17 $/h. À ce salaire, les employeurs sont prêts à embaucher 8 000 travailleurs, mais 11 500 personnes cherchent un emploi. Quelle est l'ampleur du surplus de main-d'œuvre?",
+  "a": 3500,
+  "tol": 0,
+  "u": "travailleurs",
+  "m": "<p>Le salaire minimum (17 $) est au-dessus de l'équilibre (14 $) : c'est un prix plancher qui crée un surplus.</p><p>Surplus = Qo - Qd = 11 500 - 8 000 = <b>3 500 travailleurs</b>, c'est-à-dire du chômage.</p><p>Attention : les travailleurs forment l'offre et les employeurs, la demande.</p>"
+ },
+ {
+  "id": "C-115",
+  "s": "s11",
+  "t": "calc",
+  "q": "Sur le marché du lait, le prix d'équilibre serait de 0,90 $ le litre. Un prix plancher de 1,20 $ le litre est garanti aux producteurs. À ce prix, les producteurs veulent offrir 950 millions de litres, mais les consommateurs n'en achètent que 800 millions. Quelle est l'ampleur du surplus?",
+  "a": 150,
+  "tol": 0,
+  "u": "millions de litres",
+  "m": "<p>Le prix plancher (1,20 $) est au-dessus de l'équilibre (0,90 $) : il crée un surplus.</p><p>Surplus = Qo - Qd = 950 - 800 = <b>150 millions de litres</b>.</p><p>Dans la réalité, la gestion de l'offre utilise des quotas de production pour éviter ce surplus.</p>"
+ },
+ {
+  "id": "C-116",
+  "s": "s11",
+  "t": "calc",
+  "q": "Supposons le marché des cours de conduite dans une région du Québec (cours par année). Prix : 825 $, 875 $, 925 $, 975 $, 1 025 $. Quantité demandée : 3 300, 3 100, 2 900, 2 700, 2 500. Quantité offerte : 2 100, 2 500, 2 900, 3 300, 3 700. Le gouvernement fixe un prix plafond de 825 $. Quelle est l'ampleur de la pénurie?",
+  "a": 1200,
+  "tol": 0,
+  "u": "cours",
+  "m": "<p>Équilibre : 925 $ (Qd = Qo = 2 900). Le plafond de 825 $ est sous l'équilibre : il a un effet.</p><p>À 825 $ : Qd = 3 300 et Qo = 2 100.</p><p>Pénurie = Qd - Qo = 3 300 - 2 100 = <b>1 200 cours</b>.</p>"
+ },
+ {
+  "id": "C-117",
+  "s": "s11",
+  "t": "calc",
+  "q": "Marché des œufs (en milliers de douzaines par semaine). Prix : 3,00 $, 3,50 $, 4,00 $, 4,50 $, 5,00 $. Quantité demandée : 90, 80, 70, 60, 50. Quantité offerte : 50, 60, 70, 80, 90. Un prix plancher de 5,00 $ la douzaine est garanti aux producteurs. Quelle est l'ampleur du surplus (en milliers de douzaines)?",
+  "a": 40,
+  "tol": 0,
+  "u": "milliers de douzaines",
+  "m": "<p>Équilibre : 4,00 $ (Qd = Qo = 70). Le plancher de 5,00 $ est au-dessus : il a un effet.</p><p>À 5,00 $ : Qo = 90 et Qd = 50.</p><p>Surplus = Qo - Qd = 90 - 50 = <b>40 milliers de douzaines</b>.</p>"
+ },
+ {
+  "id": "C-118",
+  "s": "s11",
+  "t": "calc",
+  "q": "Marché des abonnements de gym à Laval (par mois). Prix : 40 $, 50 $, 60 $, 70 $, 80 $. Quantité demandée : 700, 600, 500, 400, 300. Quantité offerte : 300, 400, 500, 600, 700. Le gouvernement impose un prix plafond de 80 $. Quelle est l'ampleur de la pénurie créée par ce prix plafond?",
+  "a": 0,
+  "tol": 0,
+  "u": "abonnements",
+  "m": "<p>Équilibre : 60 $ (Qd = Qo = 500).</p><p>Le plafond de 80 $ est <b>au-dessus</b> du prix d'équilibre : il ne dérange rien, le marché reste à 60 $ et 500 abonnements.</p><p>Pénurie = <b>0</b>. Piège : calculer un écart à 80 $ n'a aucun sens, puisque personne n'est obligé de vendre à 80 $ (et à ce prix, ce serait d'ailleurs un surplus, pas une pénurie).</p>"
+ },
+ {
+  "id": "C-119",
+  "s": "s11",
+  "t": "dev",
+  "q": "Expliquez pourquoi un prix plafond fixé sous le prix d'équilibre crée une pénurie, et nommez une conséquence possible de cette pénurie.",
+  "m": "<p>Un <b>prix plafond</b> est un prix maximal fixé au-dessous du prix d'équilibre dans le but de favoriser les acheteurs (ex. : contrôle des loyers, cours de conduite à 825 $ plus taxes).</p><p>Ce prix étant artificiellement bas, les consommateurs veulent acheter davantage (<b>la quantité demandée augmente</b>), alors que les producteurs sont moins motivés à offrir (<b>la quantité offerte diminue</b>).</p><p>Résultat : Qd > Qo, c'est une <b>pénurie</b>, et le prix ne peut pas monter pour rétablir l'équilibre puisque la loi l'interdit.</p><p>Conséquences possibles : <b>marché noir</b>, listes d'attente, détérioration de la qualité (ex. : logements moins bien entretenus).</p>",
+  "crit": [
+   "Définit le prix plafond comme un prix maximal fixé sous l'équilibre pour favoriser les acheteurs (1 pt)",
+   "Explique qu'à ce prix bas, la quantité demandée augmente et la quantité offerte diminue (1 pt)",
+   "Conclut que Qd > Qo (pénurie) et que le prix ne peut pas monter pour corriger la situation (1 pt)",
+   "Nomme et explique une conséquence : marché noir, listes d'attente ou baisse de la qualité (1 pt)"
+  ],
+  "k": [
+   "prix maximal",
+   "sous le prix d'équilibre",
+   "acheteurs",
+   "quantité demandée",
+   "pénurie",
+   "marché noir"
+  ]
+ },
+ {
+  "id": "C-120",
+  "s": "s11",
+  "t": "dev",
+  "q": "Le salaire minimum est fixé au-dessus du salaire d'équilibre. Expliquez l'effet de cette mesure sur le marché du travail.",
+  "m": "<p>Le salaire minimum est un <b>prix plancher</b> : un prix minimal fixé au-dessus de l'équilibre dans le but de favoriser les travailleurs (les vendeurs de travail).</p><p>Sur ce marché, les <b>travailleurs forment l'offre</b> et les <b>entreprises forment la demande</b>.</p><p>À ce salaire plus élevé, plus de personnes veulent travailler (la quantité de travail offerte augmente), mais les entreprises embauchent moins (la quantité de travail demandée diminue).</p><p>Résultat : Qo > Qd, un <b>surplus de travailleurs</b>, c'est-à-dire du <b>chômage</b>.</p>",
+  "crit": [
+   "Identifie le salaire minimum comme un prix plancher qui protège les travailleurs (1 pt)",
+   "Précise que les travailleurs forment l'offre et les entreprises, la demande (1 pt)",
+   "Explique que la quantité de travail offerte augmente et que la quantité demandée diminue (1 pt)",
+   "Conclut à un surplus de main-d'œuvre, soit du chômage (1 pt)"
+  ],
+  "k": [
+   "prix plancher",
+   "offre de travail",
+   "demande de travail",
+   "surplus",
+   "chômage"
+  ]
+ },
+ {
+  "id": "C-121",
+  "s": "s11",
+  "t": "dev",
+  "q": "Au Québec, la loi interdit de revendre un billet de spectacle plus cher que le prix payé à l'origine. Expliquez pourquoi cette loi peut entraîner l'apparition d'un marché noir pour un spectacle très populaire.",
+  "m": "<p>Pour un spectacle très populaire, le prix d'équilibre de revente est bien plus élevé que le prix payé à l'origine.</p><p>En interdisant la revente à profit, la loi impose un <b>prix plafond</b> sur le marché de la revente, sous ce prix d'équilibre.</p><p>Au prix permis, la quantité de billets demandée dépasse largement la quantité disponible : c'est une <b>pénurie</b>.</p><p>Des acheteurs prêts à payer plus et des détenteurs de billets prêts à vendre plus cher ont intérêt à transiger illégalement au-dessus du plafond : c'est le <b>marché noir</b> (scalping).</p>",
+  "crit": [
+   "Identifie la loi comme un prix plafond sur le marché de la revente (1 pt)",
+   "Explique que ce plafond est sous le prix d'équilibre d'un spectacle populaire (1 pt)",
+   "Explique la pénurie : Qd > Qo au prix permis (1 pt)",
+   "Explique l'incitation des acheteurs et des vendeurs à transiger illégalement plus cher, soit le marché noir (1 pt)"
+  ],
+  "k": [
+   "prix plafond",
+   "revente",
+   "pénurie",
+   "marché noir",
+   "scalping"
+  ]
+ }
+]

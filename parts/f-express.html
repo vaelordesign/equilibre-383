@@ -1,0 +1,152 @@
+
+<!-- ============================================================ EXPRESS -->
+<section class="view on" id="view-express">
+<div class="xwrap">
+  <div class="xhero">
+    <!--HERO-->
+    <div class="eyebrow">Révision express · 30 minutes</div>
+    <h2>Tout l'intra d'économie, condensé</h2>
+    <p class="lead">Intra 1 · 15 % de la note · cours 1 à 3. Cette page résume les 20 fiches en cinq blocs : les définitions, les réflexes offre et demande, les formules, les pièges, puis des mini-tests. Lance le chrono et avance bloc par bloc.</p>
+    <div class="row" style="margin-top:16px"><button class="btn primary" id="x-chrono" type="button">Lancer le chrono (30 min)</button><span class="timer" id="x-timer" hidden>00:00</span><a class="btn ghost" href="#s0">Le guide complet de l'intra</a></div>
+  </div>
+  <nav class="xplan" aria-label="Blocs de la révision express">
+    <a href="#xa"><b>Bloc A · 7 min</b>Les définitions à savoir par cœur</a>
+    <a href="#xb"><b>Bloc B · 9 min</b>Offre, demande, équilibre, prix plafond et plancher</a>
+    <a href="#xc"><b>Bloc C · 8 min</b>Le PIB et toutes les formules</a>
+    <a href="#xd"><b>Bloc D · 6 min</b>Vrai ou faux pièges, puis mini-tests</a>
+  </nav>
+
+  <!-- ---------------------------------------------------- A -->
+  <div class="xblock" id="xa">
+    <div class="eyebrow">Bloc A</div>
+    <h3>Les définitions du prof</h3>
+    <div class="xtime">7 minutes · les mots en gras sont ceux qui rapportent les points</div>
+    <dl class="qa">
+      <dt>Science économique</dt><dd>Comprendre comment la société s'organise pour <b>produire les biens et services</b> nécessaires à la <b>satisfaction des besoins et des désirs</b>. La « science des choix ».</dd>
+      <dt>Rareté</dt><dd>Les <b>ressources limitées</b> sont <b>insuffisantes</b> pour satisfaire nos <b>besoins et désirs illimités</b>.</dd>
+      <dt>Facteurs de production</dt><dd>Ressources <b>naturelles</b>, ressources <b>humaines</b>, <b>capital physique</b> (équipement, bâtiments, outillage), <b>technologie</b> (savoir-faire, innovation).</dd>
+      <dt>Coût d'option</dt><dd>(= coût d'opportunité = coût de renonciation) Valeur de ce à quoi on <b>renonce</b> quand on fait un choix : la valeur de <b>la meilleure option abandonnée</b>, une seule.</dd>
+      <dt>Marché</dt><dd>Lieu, <b>fictif ou réel</b>, qui rend possible la <b>réalisation d'échanges entre les demandeurs et les offreurs</b>.</dd>
+      <dt>Micro · macro</dt><dd>Micro : <b>décisions des ménages et des entreprises</b> et leurs interactions sur <b>un marché</b>. Macro : phénomènes <b>globaux</b> : <b>inflation, chômage, croissance</b>.</dd>
+      <dt>Demande · quantité demandée</dt><dd>Demande : <b>relation globale</b> entre la quantité demandée et le prix (la <b>courbe</b>). Quantité demandée : <b>intention d'achat à un prix déterminé</b> (un point).</dd>
+      <dt>Loi de la demande</dt><dd>Toutes choses étant égales par ailleurs, la quantité demandée <b>diminue</b> quand le prix <b>augmente</b>.</dd>
+      <dt>Offre · quantité offerte</dt><dd>Offre : relation globale entre la quantité offerte et le prix. Quantité offerte : ce que les producteurs ont l'<b>intention de vendre</b> à un prix donné.</dd>
+      <dt>Loi de l'offre</dt><dd>Toutes choses étant égales par ailleurs, plus le prix est <b>élevé</b>, plus la quantité offerte est <b>élevée</b>.</dd>
+      <dt>Marché (demande, offre)</dt><dd><b>Somme</b> des quantités de tous les acheteurs (ou vendeurs) à chaque prix.</dd>
+      <dt>Prix d'équilibre</dt><dd>Prix où la <b>quantité offerte = quantité demandée</b>.</dd>
+      <dt>Pénurie · surplus</dt><dd>Pénurie (demande excédentaire) : <b>Qd &gt; Qo</b>, prix trop bas. Surplus (offre excédentaire) : <b>Qo &gt; Qd</b>, prix trop élevé.</dd>
+      <dt>Prix plafond</dt><dd>Prix <b>maximal</b> fixé <b>sous</b> l'équilibre pour favoriser un groupe (<b>acheteurs</b>). → <b>pénurie</b>. Ex. cours de conduite 825 $, loyers.</dd>
+      <dt>Prix plancher</dt><dd>Prix <b>minimal</b> fixé <b>au-dessus</b> de l'équilibre pour favoriser un groupe (<b>vendeurs</b>). → <b>surplus</b>. Ex. salaire minimum (chômage), lait.</dd>
+      <dt>PIB</dt><dd>Valeur <b>marchande</b> de la totalité des biens et services <b>finaux</b> produits sur un <b>territoire</b> donné au cours d'une <b>période</b> définie (un flux).</dd>
+      <dt>Bien final · intermédiaire</dt><dd>Final : destiné à l'<b>utilisateur final</b> (pain, Camry). Intermédiaire : sert à <b>produire</b> un autre bien (farine, freins), exclu du PIB.</dd>
+      <dt>PIB nominal · réel</dt><dd>Nominal : en <b>dollars courants</b> (prix de l'année). Réel : en <b>dollars constants</b> (prix d'une <b>année de base</b>).</dd>
+      <dt>IIP (déflateur)</dt><dd>Évolution du <b>niveau moyen des prix</b> par rapport à l'année de base (= 100). IIP 126 = prix +26 %.</dd>
+      <dt>Croissance · récession</dt><dd>Croissance : hausse des <b>quantités</b> produites (PIB <b>réel</b>). Taux <b>négatif</b> = <b>récession</b>.</dd>
+      <dt>Gini · IDH</dt><dd>Gini : <b>0</b> = égalité parfaite, <b>1</b> = inégalité parfaite. IDH (0 à 1) : <b>santé</b>, <b>scolarisation</b>, <b>standard de vie</b>.</dd>
+    </dl>
+  </div>
+
+  <!-- ---------------------------------------------------- B -->
+  <div class="xblock" id="xb">
+    <div class="eyebrow">Bloc B</div>
+    <h3>Les réflexes offre et demande</h3>
+    <div class="xtime">9 minutes · c'est le cœur de l'intra</div>
+    <h4>Mouvement ou déplacement ?</h4>
+    <div class="tbl-wrap xtbl"><table>
+      <thead><tr><th>Ce qui change</th><th>On dit</th><th>Graphique</th></tr></thead>
+      <tbody>
+        <tr><td>Le <b>prix du bien lui-même</b></td><td>Variation de la <b>quantité</b> demandée (ou offerte)</td><td>Mouvement <b>le long</b> de la courbe</td></tr>
+        <tr><td>Un <b>déterminant</b></td><td>Variation de la <b>demande</b> (ou de l'<b>offre</b>)</td><td><b>Déplacement</b> : droite = hausse, gauche = baisse</td></tr>
+      </tbody>
+    </table></div>
+    <h4>Les 10 déterminants</h4>
+    <div class="tbl-wrap xtbl"><table>
+      <thead><tr><th>Demande (GRANP)</th><th>Hausse de la demande si…</th><th>Offre (SCINT)</th><th>Hausse de l'offre si…</th></tr></thead>
+      <tbody>
+        <tr><td><b>Revenu</b></td><td>revenu ↑ (bien normal) ou revenu ↓ (bien inférieur)</td><td><b>Prix des intrants</b></td><td>intrants moins chers</td></tr>
+        <tr><td><b>Prix des biens associés</b></td><td>prix d'un <b>substitut ↑</b> ou d'un <b>complément ↓</b></td><td><b>Technologie</b></td><td>techniques plus efficaces</td></tr>
+        <tr><td><b>Goûts et préférences</b></td><td>plus d'intérêt (mode, pub)</td><td><b>Nombre d'entreprises</b></td><td>plus de vendeurs</td></tr>
+        <tr><td><b>Nombre de consommateurs</b></td><td>immigration, tourisme</td><td><b>Subventions</b></td><td>subventions ↑</td></tr>
+        <tr><td><b>Anticipations</b></td><td>on prévoit un prix ou un revenu futur plus élevé (effet <b>immédiat</b>)</td><td><b>Conditions climatiques</b></td><td>météo favorable</td></tr>
+      </tbody>
+    </table></div>
+    <h4>Les 4 cas de prévision</h4>
+    <div class="big4">
+      <figure class="g" data-g="D+"><figcaption><b>D ↑</b> : P ↑ Q ↑</figcaption></figure>
+      <figure class="g" data-g="D-"><figcaption><b>D ↓</b> : P ↓ Q ↓</figcaption></figure>
+      <figure class="g" data-g="O+"><figcaption><b>O ↑</b> : P ↓ Q ↑</figcaption></figure>
+      <figure class="g" data-g="O-"><figcaption><b>O ↓</b> : P ↑ Q ↓</figcaption></figure>
+    </div>
+    <p><b>Méthode en 5 étapes</b> : 1) courbe affectée et effet; 2) déterminant; 3) graphique; 4) effet sur le prix d'équilibre; 5) effet sur la quantité d'équilibre. <b>Deux courbes bougent ?</b> La variable où les effets s'opposent est <b>indéterminée</b> (D ↑ et O ↑ : Q ↑, P indéterminé).</p>
+    <h4>Équilibre et prix artificiels</h4>
+    <div class="tbl-wrap xtbl"><table>
+      <thead><tr><th>Situation</th><th>Écart</th><th>Retour à l'équilibre</th></tr></thead>
+      <tbody>
+        <tr><td>Prix trop bas, ou <b>prix plafond</b> (sous l'équilibre)</td><td><b>Pénurie</b> = Qd − Qo</td><td>Prix ↑ → Qd ↓ et Qo ↑ (sur les courbes). Avec un plafond, la loi l'empêche : marché noir, files d'attente</td></tr>
+        <tr><td>Prix trop haut, ou <b>prix plancher</b> (au-dessus)</td><td><b>Surplus</b> = Qo − Qd</td><td>Prix ↓ → Qd ↑ et Qo ↓. Avec un plancher : chômage, quotas, surplus racheté</td></tr>
+      </tbody>
+    </table></div>
+    <div class="row"><a class="btn" href="#s9">Fiche 9 : les exemples résolus</a><button type="button" class="btn primary" data-express="prev">4 prévisions en 5 étapes</button></div>
+  </div>
+
+  <!-- ---------------------------------------------------- C -->
+  <div class="xblock" id="xc">
+    <div class="eyebrow">Bloc C</div>
+    <h3>Le PIB et les formules</h3>
+    <div class="xtime">8 minutes · refais chaque exemple de tête</div>
+    <h4>Ce que le PIB ne compte pas</h4>
+    <div class="two">
+      <div class="col"><h5>Jamais dans le PIB</h5><ul><li>Production domestique et bénévolat</li><li>Temps libre et loisirs</li><li>Économie souterraine (68,5 G$, 2,7 % en 2021)</li></ul></div>
+      <div class="col alt"><h5>Exclu de C + I + G + XN</h5><ul><li>Biens intermédiaires (farine, freins)</li><li>Biens d'occasion (déjà comptés)</li><li>Valeurs mobilières (actions, obligations)</li></ul></div>
+    </div>
+    <h4>Les formules</h4>
+    <div class="cheat">
+      <div class="formule"><span class="blabel">PIB · dépenses</span><span class="f">C + I + G + (X − M)</span><p class="ex">689 + 212 + 269 + (96 − 48) = <b>1 218</b></p></div>
+      <div class="formule"><span class="blabel">IIP (déflateur)</span><span class="f">nominal ÷ réel × 100</span><p class="ex">3 180 ÷ 2 520 × 100 = <b>126,19</b></p></div>
+      <div class="formule"><span class="blabel">PIB nominal</span><span class="f">Σ prix courants × qtés courantes</span><p class="ex">1,50 × 120 + 250 × 12 = <b>3 180 $</b></p></div>
+      <div class="formule"><span class="blabel">PIB réel</span><span class="f">Σ prix de base × qtés courantes</span><p class="ex">1 × 120 + 200 × 12 = <b>2 520 $</b></p></div>
+      <div class="formule"><span class="blabel">Croissance</span><span class="f">(réel − réel préc.) ÷ réel préc. × 100</span><p class="ex">(2 176 − 2 103) ÷ 2 103 = <b>3,5 %</b></p></div>
+      <div class="formule"><span class="blabel">Approximation</span><span class="f">% Δ réel ≈ % Δ nominal − % Δ IIP</span><p class="ex">9 % − 3 % = <b>6 %</b></p></div>
+      <div class="formule"><span class="blabel">PIB par habitant</span><span class="f">PIB ÷ population</span><p class="ex">2 200 G$ ÷ 40 M = <b>55 000 $</b></p></div>
+      <div class="formule"><span class="blabel">Coût d'option</span><span class="f">h × salaire · montant × taux</span><p class="ex">5 × 15,25 = <b>76,25 $</b> · 8 000 × 5 % = <b>400 $</b></p></div>
+    </div>
+    <div class="row"><button type="button" class="btn" data-express="dep">Calcul : PIB par les dépenses</button><button type="button" class="btn" data-express="nr">Calcul : nominal, réel, IIP</button><button type="button" class="btn" data-express="cr">Calcul : croissance</button><button type="button" class="btn primary" data-express="calc">5 calculs de la banque</button></div>
+  </div>
+
+  <!-- ---------------------------------------------------- D -->
+  <div class="xblock" id="xd">
+    <div class="eyebrow">Bloc D</div>
+    <h3>Les vrais ou faux pièges</h3>
+    <div class="xtime">6 minutes · lis la correction de chaque « faux »</div>
+    <ul class="vf-list">
+      <li><span class="v">Faux</span>Le prix du chocolat baisse, donc la demande de chocolat augmente. <i>C'est la <b>quantité demandée</b> qui augmente; la demande ne bouge pas.</i></li>
+      <li><span class="v">Faux</span>Le prix du bien est l'un des déterminants de la demande. <i>Il fait bouger <b>le long</b> de la courbe, pas la courbe.</i></li>
+      <li><span class="v t">Vrai</span>Si le prix du thé augmente, la demande de tisane augmente. <i>Substituts.</i></li>
+      <li><span class="v">Faux</span>Si le prix de l'essence augmente, la demande de VUS augmente. <i>Compléments : elle <b>baisse</b>.</i></li>
+      <li><span class="v t">Vrai</span>Une taxe annoncée pour dans deux mois fait augmenter la demande immédiate de voitures. <i>Anticipations.</i></li>
+      <li><span class="v">Faux</span>Une hausse de l'offre fait monter le prix d'équilibre. <i>Offre ↑ : prix <b>↓</b>, quantité ↑.</i></li>
+      <li><span class="v t">Vrai</span>Une sécheresse qui fait monter le prix du maïs réduit l'offre de bœuf. <i>Prix des intrants.</i></li>
+      <li><span class="v">Faux</span>Un prix plafond est fixé au-dessus du prix d'équilibre. <i>Il est <b>sous</b> l'équilibre (sinon aucun effet) et crée une pénurie.</i></li>
+      <li><span class="v t">Vrai</span>Le salaire minimum est un prix plancher qui peut créer du chômage. <i>Surplus de travailleurs.</i></li>
+      <li><span class="v">Faux</span>Le coût d'option est la somme de toutes les options abandonnées. <i>Seulement la <b>meilleure</b>.</i></li>
+      <li><span class="v">Faux</span>Une voiture Toyota fabriquée en Ontario compte dans le PIB du Japon. <i>PIB = <b>territoire</b> : elle compte au Canada.</i></li>
+      <li><span class="v">Faux</span>L'achat d'une voiture d'occasion est compté dans C. <i>Bien d'occasion : <b>exclu</b>.</i></li>
+      <li><span class="v t">Vrai</span>Les invendus produits cette année sont comptés dans I. <i>Investissement en stocks.</i></li>
+      <li><span class="v">Faux</span>On mesure la croissance économique avec le PIB nominal. <i>Avec le PIB <b>réel</b>.</i></li>
+      <li><span class="v t">Vrai</span>Pour l'année de base, PIB nominal = PIB réel et IIP = 100.</li>
+      <li><span class="v">Faux</span>Le PIB nominal a augmenté, donc il n'y a pas de récession. <i>Si le PIB <b>réel</b> baisse (2026 de l'exercice : −0,1 %), c'est une récession.</i></li>
+      <li><span class="v">Faux</span>Un Gini de 0,9 indique une société très égalitaire. <i>Proche de 1 = très <b>inégalitaire</b>.</i></li>
+      <li><span class="v t">Vrai</span>Le PIB sous-estime la production réelle, car il ignore le travail domestique et le bénévolat.</li>
+      <li><span class="v">Faux</span>Le chômage au Québec est un sujet de microéconomie. <i>Chômage = <b>macro</b>.</i></li>
+    </ul>
+    <h4>Les mini-tests</h4>
+    <div class="row">
+      <button type="button" class="btn primary" data-express="a">12 questions : définitions et pièges</button>
+      <button type="button" class="btn" data-express="prev">4 prévisions en 5 étapes</button>
+      <button type="button" class="btn" data-express="calc">5 calculs</button>
+      <button type="button" class="btn" data-express="dev">2 courts développements</button>
+      <a class="btn ghost" href="#exam">Examen blanc complet</a>
+    </div>
+  </div>
+</div>
+</section>
